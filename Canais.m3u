@@ -1,4 +1,4 @@
-#EXTM3U#EXTINF:-1 tvg-id="HBO" tvg-name="HBO [4K]" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Canais | Filmes e Series",HBO [4K]
+#EXTM3U#EXTINF:-1 tvg-id="HBO" tvg-name="HBO [4K]" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Filmes e Series",HBO [4K]
 http://psrv.io:80/883698111244/blendediptv.me/43815#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Filmes e Series",HBO FHD
 http://psrv.io:80/883698111244/blendediptv.me/18773#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Filmes e Series",HBO FHD [H265]
 http://psrv.io:80/883698111244/blendediptv.me/22139#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Filmes e Series",HBO FHD [LEG]
