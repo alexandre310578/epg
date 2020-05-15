@@ -1,1 +1,0 @@
-# epg de lista IPTV
