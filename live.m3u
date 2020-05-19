@@ -483,8 +483,6 @@ http://psrv.io:80/883698111244/blendediptv.me/22252
 http://psrv.io:80/883698111244/blendediptv.me/18517
 #EXTINF:-1 tvg-id="VIVA" tvg-name="Viva FHD" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva FHD
 http://psrv.io:80/883698111244/blendediptv.me/18755
-#EXTINF:-1 tvg-id="VIVA" tvg-name="Viva FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva FHD [H265]
-http://psrv.io:80/883698111244/blendediptv.me/25253
 #EXTINF:-1 tvg-id="VIVA" tvg-name="Viva HD" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva HD
 http://psrv.io:80/883698111244/blendediptv.me/18515
 #EXTINF:-1 tvg-id="VIVA" tvg-name="Viva SD" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva SD
@@ -731,8 +729,6 @@ http://psrv.io:80/883698111244/blendediptv.me/22180
 http://psrv.io:80/883698111244/blendediptv.me/18607
 #EXTINF:-1 tvg-id="NAT GEO KIDS" tvg-name="NatGeo Kids SD" tvg-logo="http://static.psrv.io/logos/canais/natgeokids.png" group-title="Infantis" aspect-ratio="16:9",NatGeo Kids SD
 http://psrv.io:80/883698111244/blendediptv.me/18608
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast FHD" tvg-logo="http://static.psrv.io/logos/canais/tooncast.png" group-title="Infantis" aspect-ratio="16:9",Tooncast FHD
-http://psrv.io:80/883698111244/blendediptv.me/49377
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast HD" tvg-logo="http://static.psrv.io/logos/canais/tooncast.png" group-title="Infantis" aspect-ratio="16:9",Tooncast HD
 http://psrv.io:80/883698111244/blendediptv.me/49376
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast SD" tvg-logo="http://static.psrv.io/logos/canais/tooncast.png" group-title="Infantis" aspect-ratio="16:9",Tooncast SD
@@ -859,12 +855,10 @@ http://psrv.io:80/883698111244/blendediptv.me/48702
 http://psrv.io:80/883698111244/blendediptv.me/26188
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT FHD
 http://psrv.io:80/883698111244/blendediptv.me/18764
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Goias HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT Goias HD
-http://psrv.io:80/883698111244/blendediptv.me/49616
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT HD
 http://psrv.io:80/883698111244/blendediptv.me/18569
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Nordeste HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT Nordeste HD
-http://psrv.io:80/883698111244/blendediptv.me/49617
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Interior" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT Interior
+http://psrv.io:80/883698111244/blendediptv.me/51939
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT PR SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT PR SD
 http://psrv.io:80/883698111244/blendediptv.me/22470
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT RJ HD
@@ -881,10 +875,6 @@ http://psrv.io:80/883698111244/blendediptv.me/49619
 http://psrv.io:80/883698111244/blendediptv.me/49620
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT SP SD
 http://psrv.io:80/883698111244/blendediptv.me/49621
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV Cidade Verde Piaui SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT TV Cidade Verde Piaui SD
-http://psrv.io:80/883698111244/blendediptv.me/49622
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV Jornal Pernambuco SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT TV Jornal Pernambuco SD
-http://psrv.io:80/883698111244/blendediptv.me/49623
 #EXTINF:-1 tvg-id="SBT" tvg-name="Tv Aratu SBT Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",Tv Aratu SBT Bahia HD
 http://psrv.io:80/883698111244/blendediptv.me/28059
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="Terra Viva SD" tvg-logo="http://static.psrv.io/logos/canais/terraviva.png" group-title="Abertos" aspect-ratio="16:9",Terra Viva SD
@@ -933,9 +923,9 @@ http://psrv.io:80/883698111244/blendediptv.me/28390
 http://psrv.io:80/883698111244/blendediptv.me/18434
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Brasilia SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Brasilia SD
 http://psrv.io:80/883698111244/blendediptv.me/18435
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Asa Branca SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Asa Branca SD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Asa Branca HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Asa Branca HD
 http://psrv.io:80/883698111244/blendediptv.me/49362
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Centro America SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Centro America SD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Centro America Cuiaba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Centro America Cuiaba SD
 http://psrv.io:80/883698111244/blendediptv.me/49363
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo EPTV Araraquara SD
 http://psrv.io:80/883698111244/blendediptv.me/18433
@@ -959,12 +949,6 @@ http://psrv.io:80/883698111244/blendediptv.me/49364
 http://psrv.io:80/883698111244/blendediptv.me/33380
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Internacional SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Internacional SD
 http://psrv.io:80/883698111244/blendediptv.me/49365
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo InterTV Alto Litoral HD
-http://psrv.io:80/883698111244/blendediptv.me/49366
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo InterTV Serra Mar SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo InterTV Serra Mar SD
-http://psrv.io:80/883698111244/blendediptv.me/49367
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Itapetininga SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Itapetininga SD
-http://psrv.io:80/883698111244/blendediptv.me/49368
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Mato Grosso FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Mato Grosso FHD
 http://psrv.io:80/883698111244/blendediptv.me/28394
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Mato Grosso HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Mato Grosso HD
@@ -977,22 +961,16 @@ http://psrv.io:80/883698111244/blendediptv.me/18425
 http://psrv.io:80/883698111244/blendediptv.me/18426
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Nordeste FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Nordeste FHD
 http://psrv.io:80/883698111244/blendediptv.me/18376
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Nordeste HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Nordeste HD
-http://psrv.io:80/883698111244/blendediptv.me/18423
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Nordeste SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Nordeste SD
 http://psrv.io:80/883698111244/blendediptv.me/18424
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC Blumenau SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo NSC Blumenau SD
-http://psrv.io:80/883698111244/blendediptv.me/49369
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis FHD
 http://psrv.io:80/883698111244/blendediptv.me/18375
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis HD
 http://psrv.io:80/883698111244/blendediptv.me/18421
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis SD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis HD
 http://psrv.io:80/883698111244/blendediptv.me/49361
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo RBS TV Pelotas HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV PAMPA RS HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV PAMPA RS HD
 http://psrv.io:80/883698111244/blendediptv.me/49370
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RBS TV Poa SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo RBS TV Poa SD
-http://psrv.io:80/883698111244/blendediptv.me/49371
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo RBS TV Porto Alegre HD
 http://psrv.io:80/883698111244/blendediptv.me/18419
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo RBS TV Porto Alegre SD
@@ -1005,14 +983,12 @@ http://psrv.io:80/883698111244/blendediptv.me/18413
 http://psrv.io:80/883698111244/blendediptv.me/18412
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo RPC Curitiba SD
 http://psrv.io:80/883698111244/blendediptv.me/18414
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Paranavaí SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo RPC Paranavaí SD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Parana HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo RPC Parana HD
 http://psrv.io:80/883698111244/blendediptv.me/49372
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Sao Jose dos Campos SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo Sao Jose dos Campos SD
 http://psrv.io:80/883698111244/blendediptv.me/22448
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Anhanguera Goiania SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Anhanguera Goiania SD
 http://psrv.io:80/883698111244/blendediptv.me/18407
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Bahia FHD
-http://psrv.io:80/883698111244/blendediptv.me/18372
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Bahia HD
 http://psrv.io:80/883698111244/blendediptv.me/18405
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Bahia SD
@@ -1035,9 +1011,7 @@ http://psrv.io:80/883698111244/blendediptv.me/18403
 http://psrv.io:80/883698111244/blendediptv.me/18371
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
 http://psrv.io:80/883698111244/blendediptv.me/18370
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Mirante Sao Luis SD
-http://psrv.io:80/883698111244/blendediptv.me/49360
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Morena SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Morena SD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Morena Ponta Pora HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Morena Ponta Pora HD
 http://psrv.io:80/883698111244/blendediptv.me/49373
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Rio Sul FHD
 http://psrv.io:80/883698111244/blendediptv.me/50827
@@ -1049,8 +1023,6 @@ http://psrv.io:80/883698111244/blendediptv.me/18327
 http://psrv.io:80/883698111244/blendediptv.me/18380
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Sergipe HD
 http://psrv.io:80/883698111244/blendediptv.me/22475
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Sergipe SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Sergipe SD
-http://psrv.io:80/883698111244/blendediptv.me/18381
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV TEM Bauru SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV TEM Bauru SD
 http://psrv.io:80/883698111244/blendediptv.me/18402
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV TEM S. J. do Rio Preto HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV TEM S. J. do Rio Preto HD
@@ -1095,8 +1067,6 @@ http://psrv.io:80/883698111244/blendediptv.me/18708
 http://psrv.io:80/883698111244/blendediptv.me/45090
 #EXTINF:-1 tvg-id="ESPORTE INTERATIVO" tvg-name="EI Plus 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-0.png" group-title="Esportes" aspect-ratio="16:9",EI Plus 1 HD
 http://psrv.io:80/883698111244/blendediptv.me/22978
-#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" tvg-name="EI Plus 1 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-0.png" group-title="Esportes" aspect-ratio="16:9",EI Plus 1 SD
-http://psrv.io:80/883698111244/blendediptv.me/26194
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN [4K]" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN [4K]
 http://psrv.io:80/883698111244/blendediptv.me/27130
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN FHD
@@ -1321,7 +1291,7 @@ http://psrv.io:80/883698111244/blendediptv.me/48706
 http://psrv.io:80/883698111244/blendediptv.me/48704
 #EXTINF:-1 tvg-id="" tvg-name="[AU] ACCTV" tvg-logo="" group-title="Religiosos" aspect-ratio="16:9",[AU] ACCTV
 http://psrv.io:80/883698111244/blendediptv.me/48625
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Católica TV" tvg-logo="" group-title="Religiosos" aspect-ratio="16:9",[BO] Católica TV
+#EXTINF:-1 tvg-id="" tvg-name="[BO] Catolica TV" tvg-logo="" group-title="Religiosos" aspect-ratio="16:9",[BO] Catolica TV
 http://psrv.io:80/883698111244/blendediptv.me/48676
 #EXTINF:-1 tvg-id="" tvg-name="[CA] Amazing Discoveries TV" tvg-logo="" group-title="Religiosos" aspect-ratio="16:9",[CA] Amazing Discoveries TV
 http://psrv.io:80/883698111244/blendediptv.me/48636
@@ -1479,7 +1449,7 @@ http://psrv.io:80/883698111244/blendediptv.me/45312
 http://psrv.io:80/883698111244/blendediptv.me/45303
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Antena 3" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Antena 3
 http://psrv.io:80/883698111244/blendediptv.me/45275
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Aragón TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Aragón TV
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Aragon TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Aragon TV
 http://psrv.io:80/883698111244/blendediptv.me/45328
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Be Mad" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Be Mad
 http://psrv.io:80/883698111244/blendediptv.me/45304
@@ -1493,7 +1463,7 @@ http://psrv.io:80/883698111244/blendediptv.me/45295
 http://psrv.io:80/883698111244/blendediptv.me/45314
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Canal D" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Canal D
 http://psrv.io:80/883698111244/blendediptv.me/45305
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Málaga" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Canal Málaga
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Malaga" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Canal Malaga
 http://psrv.io:80/883698111244/blendediptv.me/45350
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Parlamento" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Canal Parlamento
 http://psrv.io:80/883698111244/blendediptv.me/45329
@@ -1519,7 +1489,7 @@ http://psrv.io:80/883698111244/blendediptv.me/45306
 http://psrv.io:80/883698111244/blendediptv.me/45307
 #EXTINF:-1 tvg-id="" tvg-name="[ES] FDF" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] FDF
 http://psrv.io:80/883698111244/blendediptv.me/45298
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Galicia TV América" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Galicia TV América
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Galicia TV America" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Galicia TV America
 http://psrv.io:80/883698111244/blendediptv.me/45299
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Hamaika Telebista" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Hamaika Telebista
 http://psrv.io:80/883698111244/blendediptv.me/45334
@@ -1569,7 +1539,7 @@ http://psrv.io:80/883698111244/blendediptv.me/45322
 http://psrv.io:80/883698111244/blendediptv.me/45338
 #EXTINF:-1 tvg-id="" tvg-name="[ES] TVG" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] TVG
 http://psrv.io:80/883698111244/blendediptv.me/45323
-#EXTINF:-1 tvg-id="" tvg-name="[ES] TVG América" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] TVG América
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TVG America" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] TVG America
 http://psrv.io:80/883698111244/blendediptv.me/45324
 #EXTINF:-1 tvg-id="" tvg-name="[ES] TVG Cultural" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] TVG Cultural
 http://psrv.io:80/883698111244/blendediptv.me/45325
@@ -2209,7 +2179,7 @@ http://psrv.io:80/883698111244/blendediptv.me/33420
 http://psrv.io:80/883698111244/blendediptv.me/33421
 #EXTINF:-1 tvg-id="" tvg-name="Carcereiros" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Carcereiros
 http://psrv.io:80/883698111244/blendediptv.me/33422
-#EXTINF:-1 tvg-id="" tvg-name="Cascão Maratona" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Cascão Maratona
+#EXTINF:-1 tvg-id="" tvg-name="Cascao Maratona" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Cascao Maratona
 http://psrv.io:80/883698111244/blendediptv.me/33423
 #EXTINF:-1 tvg-id="" tvg-name="Cavalo de Fogo" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Cavalo de Fogo
 http://psrv.io:80/883698111244/blendediptv.me/33424
@@ -2287,11 +2257,11 @@ http://psrv.io:80/883698111244/blendediptv.me/33446
 http://psrv.io:80/883698111244/blendediptv.me/33447
 #EXTINF:-1 tvg-id="" tvg-name="Eu - A Patroa e as Criancas" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Eu - A Patroa e as Criancas
 http://psrv.io:80/883698111244/blendediptv.me/19177
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 2 TEMPORADA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",EU A PATROA E AS CRIANÇAS 2 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 2 TEMPORADA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",EU A PATROA E AS CRIANCAS 2 TEMPORADA
 http://psrv.io:80/883698111244/blendediptv.me/33517
-#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 3 TEMPORADA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",EU A PATROA E AS CRIANÇAS 3 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANCAS 3 TEMPORADA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",EU A PATROA E AS CRIANCAS 3 TEMPORADA
 http://psrv.io:80/883698111244/blendediptv.me/33518
-#EXTINF:-1 tvg-id="" tvg-name="Família da Pesada" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Família da Pesada
+#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Familia da Pesada
 http://psrv.io:80/883698111244/blendediptv.me/24973
 #EXTINF:-1 tvg-id="" tvg-name="Familia Soprano 1 Temporada" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Familia Soprano 1 Temporada
 http://psrv.io:80/883698111244/blendediptv.me/33448
@@ -2305,7 +2275,7 @@ http://psrv.io:80/883698111244/blendediptv.me/33455
 http://psrv.io:80/883698111244/blendediptv.me/33456
 #EXTINF:-1 tvg-id="" tvg-name="Fear The Walking Dead 1 Temporada" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Fear The Walking Dead 1 Temporada
 http://psrv.io:80/883698111244/blendediptv.me/33454
-#EXTINF:-1 tvg-id="" tvg-name="Formiga Atômica" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Formiga Atômica
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Formiga Atomica
 http://psrv.io:80/883698111244/blendediptv.me/24974
 #EXTINF:-1 tvg-id="" tvg-name="Frequency" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Frequency
 http://psrv.io:80/883698111244/blendediptv.me/33457
@@ -2327,7 +2297,7 @@ http://psrv.io:80/883698111244/blendediptv.me/33463
 http://psrv.io:80/883698111244/blendediptv.me/33464
 #EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",He-Man
 http://psrv.io:80/883698111244/blendediptv.me/28204
-#EXTINF:-1 tvg-id="" tvg-name="Hércules" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Hércules
+#EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Hercules
 http://psrv.io:80/883698111244/blendediptv.me/28205
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",HOMEM ARANHA
 http://psrv.io:80/883698111244/blendediptv.me/28206
@@ -2337,7 +2307,7 @@ http://psrv.io:80/883698111244/blendediptv.me/28207
 http://psrv.io:80/883698111244/blendediptv.me/28208
 #EXTINF:-1 tvg-id="" tvg-name="Impuros" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Impuros
 http://psrv.io:80/883698111244/blendediptv.me/33465
-#EXTINF:-1 tvg-id="" tvg-name="Incrível Hulk" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Incrível Hulk
+#EXTINF:-1 tvg-id="" tvg-name="Incrivel Hulk" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Incrivel Hulk
 http://psrv.io:80/883698111244/blendediptv.me/28209
 #EXTINF:-1 tvg-id="" tvg-name="Irmaos de Guerra" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Irmaos de Guerra
 http://psrv.io:80/883698111244/blendediptv.me/33466
@@ -2413,7 +2383,7 @@ http://psrv.io:80/883698111244/blendediptv.me/27897
 http://psrv.io:80/883698111244/blendediptv.me/33493
 #EXTINF:-1 tvg-id="" tvg-name="Outsiders 2 Temporada" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Outsiders 2 Temporada
 http://psrv.io:80/883698111244/blendediptv.me/33494
-#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Papa-Léguas
+#EXTINF:-1 tvg-id="" tvg-name="Papa-Leguas" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Papa-Leguas
 http://psrv.io:80/883698111244/blendediptv.me/28212
 #EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",PATRULHA CANINA
 http://psrv.io:80/883698111244/blendediptv.me/33524
@@ -2463,7 +2433,7 @@ http://psrv.io:80/883698111244/blendediptv.me/19185
 http://psrv.io:80/883698111244/blendediptv.me/19184
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Monica" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",Turma da Monica
 http://psrv.io:80/883698111244/blendediptv.me/33511
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 1 TEMPORADA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",UM MALUCO NO PEDAÇO 1 TEMPORADA
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 1 TEMPORADA" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",UM MALUCO NO PEDACO 1 TEMPORADA
 http://psrv.io:80/883698111244/blendediptv.me/33519
 #EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 2 TEMP" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",UM MALUCO NO PEDACO 2 TEMP
 http://psrv.io:80/883698111244/blendediptv.me/33520
@@ -2495,27 +2465,27 @@ http://psrv.io:80/883698111244/blendediptv.me/50745
 http://psrv.io:80/883698111244/blendediptv.me/50747
 #EXTINF:-1 tvg-id="" tvg-name="[CAM] Panama Resort 01" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Panama Resort 01
 http://psrv.io:80/883698111244/blendediptv.me/50749
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ponte da Amizade - Foz do Iguaçu" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ponte da Amizade - Foz do Iguaçu
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ponte da Amizade - Foz do Iguacu" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ponte da Amizade - Foz do Iguacu
 http://psrv.io:80/883698111244/blendediptv.me/43032
 #EXTINF:-1 tvg-id="" tvg-name="[CAM] Provider: PJSC AV1" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Provider: PJSC AV1
 http://psrv.io:80/883698111244/blendediptv.me/50752
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Provider: PJSC Praça" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Provider: PJSC Praça
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] Provider: PJSC Praca" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Provider: PJSC Praca
 http://psrv.io:80/883698111244/blendediptv.me/50753
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 01 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] CBN Rio" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] CBN Rio
 http://psrv.io:80/883698111244/blendediptv.me/50733
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 03 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 03 HD
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] SP Avenida Washington Luis 2" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] SP Avenida Washington Luis 2
 http://psrv.io:80/883698111244/blendediptv.me/50735
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 06 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 06 HD
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] SP -Marginal Pinheiros Sentido Castelo branco 1" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] SP -Marginal Pinheiros Sentido Castelo branco 1
 http://psrv.io:80/883698111244/blendediptv.me/50738
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 07 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 07 HD
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] SC - Barra da Lagoa" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] SC - Barra da Lagoa
 http://psrv.io:80/883698111244/blendediptv.me/50739
 #EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 09 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 09 HD
 http://psrv.io:80/883698111244/blendediptv.me/50741
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 14 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 14 HD
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] CBN SP" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] CBN SP
 http://psrv.io:80/883698111244/blendediptv.me/50746
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 16 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 16 HD
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] FM O dia" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] FM O dia
 http://psrv.io:80/883698111244/blendediptv.me/50748
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 18 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 18 HD
+#EXTINF:-1 tvg-id="" tvg-name="[CAM] SP Avenida Washington Luis 1" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] SP Avenida Washington Luis 1
 http://psrv.io:80/883698111244/blendediptv.me/50750
 #EXTINF:-1 tvg-id="" tvg-name="[CAM] Saint-Lambert la Potherie" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Saint-Lambert la Potherie
 http://psrv.io:80/883698111244/blendediptv.me/50727
@@ -2605,7 +2575,7 @@ http://psrv.io:80/883698111244/blendediptv.me/28376
 http://psrv.io:80/883698111244/blendediptv.me/28396
 #EXTINF:-1 tvg-id="" tvg-name="[MG] Alvorada FM - 94.9 FM" tvg-logo="http://static.psrv.io/logos/radios/alvoradafm-949.png" group-title="Radios" aspect-ratio="16:9",[MG] Alvorada FM - 94.9 FM
 http://psrv.io:80/883698111244/blendediptv.me/549
-#EXTINF:-1 tvg-id="" tvg-name="[MG] Autêntica Favela FM - 106.7 FM" tvg-logo="http://static.psrv.io/logos/radios/autenticafavela-1067.png" group-title="Radios" aspect-ratio="16:9",[MG] Autêntica Favela FM - 106.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="[MG] Autentica Favela FM - 106.7 FM" tvg-logo="http://static.psrv.io/logos/radios/autenticafavela-1067.png" group-title="Radios" aspect-ratio="16:9",[MG] Autentica Favela FM - 106.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/556
 #EXTINF:-1 tvg-id="" tvg-name="[MG] BandNews FM - 89.5 FM" tvg-logo="http://static.psrv.io/logos/radios/bandnews-895.png" group-title="Radios" aspect-ratio="16:9",[MG] BandNews FM - 89.5 FM
 http://psrv.io:80/883698111244/blendediptv.me/547
@@ -2619,11 +2589,11 @@ http://psrv.io:80/883698111244/blendediptv.me/554
 http://psrv.io:80/883698111244/blendediptv.me/555
 #EXTINF:-1 tvg-id="" tvg-name="[MG] Jovem Pan FM - 99.1 FM" tvg-logo="http://static.psrv.io/logos/radios/jovempan-991.png" group-title="Radios" aspect-ratio="16:9",[MG] Jovem Pan FM - 99.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/550
-#EXTINF:-1 tvg-id="" tvg-name="[MG] Rádio Inconfidência - 100.9 FM" tvg-logo="http://static.psrv.io/logos/radios/inconfidencia-1009.png" group-title="Radios" aspect-ratio="16:9",[MG] Rádio Inconfidência - 100.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="[MG] Radio Inconfidencia - 100.9 FM" tvg-logo="http://static.psrv.io/logos/radios/inconfidencia-1009.png" group-title="Radios" aspect-ratio="16:9",[MG] Radio Inconfidencia - 100.9 FM
 http://psrv.io:80/883698111244/blendediptv.me/551
-#EXTINF:-1 tvg-id="" tvg-name="[MG] Rádio Itatiaia - 95.7 FM" tvg-logo="http://static.psrv.io/logos/radios/itatiaia-957.png" group-title="Radios" aspect-ratio="16:9",[MG] Rádio Itatiaia - 95.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="[MG] Radio Itatiaia - 95.7 FM" tvg-logo="http://static.psrv.io/logos/radios/itatiaia-957.png" group-title="Radios" aspect-ratio="16:9",[MG] Radio Itatiaia - 95.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/553
-#EXTINF:-1 tvg-id="" tvg-name="[MG] Transamérica Hits - 88.7 FM" tvg-logo="http://static.psrv.io/logos/radios/transamerica-887.png" group-title="Radios" aspect-ratio="16:9",[MG] Transamérica Hits - 88.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="[MG] Transamerica Hits - 88.7 FM" tvg-logo="http://static.psrv.io/logos/radios/transamerica-887.png" group-title="Radios" aspect-ratio="16:9",[MG] Transamerica Hits - 88.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/546
 #EXTINF:-1 tvg-id="" tvg-name="[RJ] Antena 1 - 103.7 FM" tvg-logo="http://static.psrv.io/logos/radios/antena1-1037.png" group-title="Radios" aspect-ratio="16:9",[RJ] Antena 1 - 103.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/545
@@ -2633,19 +2603,19 @@ http://psrv.io:80/883698111244/blendediptv.me/536
 http://psrv.io:80/883698111244/blendediptv.me/541
 #EXTINF:-1 tvg-id="" tvg-name="[RJ] JB FM - 99.9 FM" tvg-logo="http://static.psrv.io/logos/radios/jbfm-999.png" group-title="Radios" aspect-ratio="16:9",[RJ] JB FM - 99.9 FM
 http://psrv.io:80/883698111244/blendediptv.me/540
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] Rádio Cidade FM - 102.9 FM" tvg-logo="http://static.psrv.io/logos/radios/radiocidade-1029.png" group-title="Radios" aspect-ratio="16:9",[RJ] Rádio Cidade FM - 102.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RJ] Radio Cidade FM - 102.9 FM" tvg-logo="http://static.psrv.io/logos/radios/radiocidade-1029.png" group-title="Radios" aspect-ratio="16:9",[RJ] Radio Cidade FM - 102.9 FM
 http://psrv.io:80/883698111244/blendediptv.me/544
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] Rádio Globo - 98.1 FM" tvg-logo="http://static.psrv.io/logos/radios/radioglobo-981.png" group-title="Radios" aspect-ratio="16:9",[RJ] Rádio Globo - 98.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RJ] Radio Globo - 98.1 FM" tvg-logo="http://static.psrv.io/logos/radios/radioglobo-981.png" group-title="Radios" aspect-ratio="16:9",[RJ] Radio Globo - 98.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/539
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] Rádio Mania FM - 91.1 FM" tvg-logo="http://static.psrv.io/logos/radios/radiomania-911.png" group-title="Radios" aspect-ratio="16:9",[RJ] Rádio Mania FM - 91.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RJ] Radio Mania FM - 91.1 FM" tvg-logo="http://static.psrv.io/logos/radios/radiomania-911.png" group-title="Radios" aspect-ratio="16:9",[RJ] Radio Mania FM - 91.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/535
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] Rádio Mix FM - 102.1 FM" tvg-logo="http://static.psrv.io/logos/radios/mixfm-1021.png" group-title="Radios" aspect-ratio="16:9",[RJ] Rádio Mix FM - 102.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RJ] Radio Mix FM - 102.1 FM" tvg-logo="http://static.psrv.io/logos/radios/mixfm-1021.png" group-title="Radios" aspect-ratio="16:9",[RJ] Radio Mix FM - 102.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/543
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] SulAmérica Paradiso - 95.7 FM" tvg-logo="http://static.psrv.io/logos/radios/paradiso-957.png" group-title="Radios" aspect-ratio="16:9",[RJ] SulAmérica Paradiso - 95.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RJ] SulAmerica Paradiso - 95.7 FM" tvg-logo="http://static.psrv.io/logos/radios/paradiso-957.png" group-title="Radios" aspect-ratio="16:9",[RJ] SulAmerica Paradiso - 95.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/537
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] Super Rádio Tupi - 96.5 FM" tvg-logo="http://static.psrv.io/logos/radios/tupi-965.png" group-title="Radios" aspect-ratio="16:9",[RJ] Super Rádio Tupi - 96.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RJ] Super Radio Tupi - 96.5 FM" tvg-logo="http://static.psrv.io/logos/radios/tupi-965.png" group-title="Radios" aspect-ratio="16:9",[RJ] Super Radio Tupi - 96.5 FM
 http://psrv.io:80/883698111244/blendediptv.me/538
-#EXTINF:-1 tvg-id="" tvg-name="[RJ] Transamérica - 101.3 FM" tvg-logo="http://static.psrv.io/logos/radios/transamerica-1013.png" group-title="Radios" aspect-ratio="16:9",[RJ] Transamérica - 101.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RJ] Transamerica - 101.3 FM" tvg-logo="http://static.psrv.io/logos/radios/transamerica-1013.png" group-title="Radios" aspect-ratio="16:9",[RJ] Transamerica - 101.3 FM
 http://psrv.io:80/883698111244/blendediptv.me/542
 #EXTINF:-1 tvg-id="" tvg-name="[RS] 104 FM - 104.1 FM" tvg-logo="http://static.psrv.io/logos/radios/104fm-1041.png" group-title="Radios" aspect-ratio="16:9",[RS] 104 FM - 104.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/564
@@ -2655,17 +2625,17 @@ http://psrv.io:80/883698111244/blendediptv.me/561
 http://psrv.io:80/883698111244/blendediptv.me/563
 #EXTINF:-1 tvg-id="" tvg-name="[RS] Jovem Pan FM - 90.7 FM" tvg-logo="http://static.psrv.io/logos/radios/jovempan-907.png" group-title="Radios" aspect-ratio="16:9",[RS] Jovem Pan FM - 90.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/557
-#EXTINF:-1 tvg-id="" tvg-name="[RS] Rádio Caiçara - 96.7 FM" tvg-logo="http://static.psrv.io/logos/radios/caicara-967.png" group-title="Radios" aspect-ratio="16:9",[RS] Rádio Caiçara - 96.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RS] Radio Caicara - 96.7 FM" tvg-logo="http://static.psrv.io/logos/radios/caicara-967.png" group-title="Radios" aspect-ratio="16:9",[RS] Radio Caicara - 96.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/565
-#EXTINF:-1 tvg-id="" tvg-name="[RS] Rádio Gaúcha - 93.7 FM" tvg-logo="http://static.psrv.io/logos/radios/gaucha-937.png" group-title="Radios" aspect-ratio="16:9",[RS] Rádio Gaúcha - 93.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RS] Radio Gaucha - 93.7 FM" tvg-logo="http://static.psrv.io/logos/radios/gaucha-937.png" group-title="Radios" aspect-ratio="16:9",[RS] Radio Gaucha - 93.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/558
-#EXTINF:-1 tvg-id="" tvg-name="[RS] Rádio Grenal - 95.9 FM" tvg-logo="http://static.psrv.io/logos/radios/radiogrenal-959.png" group-title="Radios" aspect-ratio="16:9",[RS] Rádio Grenal - 95.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RS] Radio Grenal - 95.9 FM" tvg-logo="http://static.psrv.io/logos/radios/radiogrenal-959.png" group-title="Radios" aspect-ratio="16:9",[RS] Radio Grenal - 95.9 FM
 http://psrv.io:80/883698111244/blendediptv.me/559
-#EXTINF:-1 tvg-id="" tvg-name="[RS] Rádio Mix FM - 107.1 FM" tvg-logo="http://static.psrv.io/logos/radios/mixfm-1071.png" group-title="Radios" aspect-ratio="16:9",[RS] Rádio Mix FM - 107.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RS] Radio Mix FM - 107.1 FM" tvg-logo="http://static.psrv.io/logos/radios/mixfm-1071.png" group-title="Radios" aspect-ratio="16:9",[RS] Radio Mix FM - 107.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/562
-#EXTINF:-1 tvg-id="" tvg-name="[RS] Rádio Pampa - 97.5 FM" tvg-logo="http://static.psrv.io/logos/radios/pampa-975.png" group-title="Radios" aspect-ratio="16:9",[RS] Rádio Pampa - 97.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="[RS] Radio Pampa - 97.5 FM" tvg-logo="http://static.psrv.io/logos/radios/pampa-975.png" group-title="Radios" aspect-ratio="16:9",[RS] Radio Pampa - 97.5 FM
 http://psrv.io:80/883698111244/blendediptv.me/560
-#EXTINF:-1 tvg-id="" tvg-name="[SP] 89 FM A Rádio Rock - 89.1 FM" tvg-logo="http://static.psrv.io/logos/radios/89fm-891.png" group-title="Radios" aspect-ratio="16:9",[SP] 89 FM A Rádio Rock - 89.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[SP] 89 FM A Radio Rock - 89.1 FM" tvg-logo="http://static.psrv.io/logos/radios/89fm-891.png" group-title="Radios" aspect-ratio="16:9",[SP] 89 FM A Radio Rock - 89.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/516
 #EXTINF:-1 tvg-id="" tvg-name="[SP] Alpha FM - 101.7 FM" tvg-logo="http://static.psrv.io/logos/radios/alphafm-1017.png" group-title="Radios" aspect-ratio="16:9",[SP] Alpha FM - 101.7 FM
 http://psrv.io:80/883698111244/blendediptv.me/530
@@ -2689,19 +2659,19 @@ http://psrv.io:80/883698111244/blendediptv.me/531
 http://psrv.io:80/883698111244/blendediptv.me/527
 #EXTINF:-1 tvg-id="" tvg-name="[SP] Nativa FM - 95.3 FM" tvg-logo="http://static.psrv.io/logos/radios/nativafm-953.png" group-title="Radios" aspect-ratio="16:9",[SP] Nativa FM - 95.3 FM
 http://psrv.io:80/883698111244/blendediptv.me/523
-#EXTINF:-1 tvg-id="" tvg-name="[SP] Rádio Bandeirantes - 90.9 FM" tvg-logo="http://static.psrv.io/logos/radios/bandeirantes-909.png" group-title="Radios" aspect-ratio="16:9",[SP] Rádio Bandeirantes - 90.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="[SP] Radio Bandeirantes - 90.9 FM" tvg-logo="http://static.psrv.io/logos/radios/bandeirantes-909.png" group-title="Radios" aspect-ratio="16:9",[SP] Radio Bandeirantes - 90.9 FM
 http://psrv.io:80/883698111244/blendediptv.me/517
-#EXTINF:-1 tvg-id="" tvg-name="[SP] Rádio Disney - 91.3 FM" tvg-logo="http://static.psrv.io/logos/radios/disney-913.png" group-title="Radios" aspect-ratio="16:9",[SP] Rádio Disney - 91.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="[SP] Radio Disney - 91.3 FM" tvg-logo="http://static.psrv.io/logos/radios/disney-913.png" group-title="Radios" aspect-ratio="16:9",[SP] Radio Disney - 91.3 FM
 http://psrv.io:80/883698111244/blendediptv.me/518
-#EXTINF:-1 tvg-id="" tvg-name="[SP] Rádio Gospel - 90.1 FM" tvg-logo="http://static.psrv.io/logos/radios/gospel-901.png" group-title="Radios" aspect-ratio="16:9",[SP] Rádio Gospel - 90.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[SP] Radio Gospel - 90.1 FM" tvg-logo="http://static.psrv.io/logos/radios/gospel-901.png" group-title="Radios" aspect-ratio="16:9",[SP] Radio Gospel - 90.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/566
-#EXTINF:-1 tvg-id="" tvg-name="[SP] Rádio Mix FM - 106.3 FM" tvg-logo="http://static.psrv.io/logos/radios/mixfm-1063.png" group-title="Radios" aspect-ratio="16:9",[SP] Rádio Mix FM - 106.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="[SP] Radio Mix FM - 106.3 FM" tvg-logo="http://static.psrv.io/logos/radios/mixfm-1063.png" group-title="Radios" aspect-ratio="16:9",[SP] Radio Mix FM - 106.3 FM
 http://psrv.io:80/883698111244/blendediptv.me/533
-#EXTINF:-1 tvg-id="" tvg-name="[SP] Rádio Trânsito FM - 92.1 FM" tvg-logo="http://static.psrv.io/logos/radios/transitofm-921.png" group-title="Radios" aspect-ratio="16:9",[SP] Rádio Trânsito FM - 92.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[SP] Radio Transito FM - 92.1 FM" tvg-logo="http://static.psrv.io/logos/radios/transitofm-921.png" group-title="Radios" aspect-ratio="16:9",[SP] Radio Transito FM - 92.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/567
 #EXTINF:-1 tvg-id="" tvg-name="[SP] Top FM - 104.1 FM" tvg-logo="http://static.psrv.io/logos/radios/topfm-1041.png" group-title="Radios" aspect-ratio="16:9",[SP] Top FM - 104.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/532
-#EXTINF:-1 tvg-id="" tvg-name="[SP] Transamérica - 100.1 FM" tvg-logo="http://static.psrv.io/logos/radios/transamerica-1001.png" group-title="Radios" aspect-ratio="16:9",[SP] Transamérica - 100.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="[SP] Transamerica - 100.1 FM" tvg-logo="http://static.psrv.io/logos/radios/transamerica-1001.png" group-title="Radios" aspect-ratio="16:9",[SP] Transamerica - 100.1 FM
 http://psrv.io:80/883698111244/blendediptv.me/528
 #EXTINF:-1 tvg-id="" tvg-name="[SP] Tropical FM - 107.9 FM" tvg-logo="http://static.psrv.io/logos/radios/tropicalfm-1079.png" group-title="Radios" aspect-ratio="16:9",[SP] Tropical FM - 107.9 FM
 http://psrv.io:80/883698111244/blendediptv.me/534
