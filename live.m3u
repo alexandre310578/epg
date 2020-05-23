@@ -1225,10 +1225,10 @@ http://psrv.io:80/883698111244/blendediptv.me/18725
 http://psrv.io:80/883698111244/blendediptv.me/18726
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil [OFFICIAL]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil [OFFICIAL]
 http://psrv.io:80/883698111244/blendediptv.me/48251
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil FHD[H265]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil FHD[H265]
-http://psrv.io:80/883698111244/blendediptv.me/51972
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil FHD
 http://psrv.io:80/883698111244/blendediptv.me/47357
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil FHD[H265]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil FHD[H265]
+http://psrv.io:80/883698111244/blendediptv.me/51972
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil HD
 http://psrv.io:80/883698111244/blendediptv.me/47358
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil SD
