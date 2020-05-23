@@ -989,7 +989,7 @@ http://psrv.io:80/883698111244/blendediptv.me/49372
 http://psrv.io:80/883698111244/blendediptv.me/22448
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Anhanguera Goiania SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Anhanguera Goiania SD
 http://psrv.io:80/883698111244/blendediptv.me/18407
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Bahia HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Salvador Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Salvador Bahia HD
 http://psrv.io:80/883698111244/blendediptv.me/18405
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Globo" aspect-ratio="16:9",Globo TV Bahia SD
 http://psrv.io:80/883698111244/blendediptv.me/18406
@@ -1225,6 +1225,8 @@ http://psrv.io:80/883698111244/blendediptv.me/18725
 http://psrv.io:80/883698111244/blendediptv.me/18726
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil [OFFICIAL]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil [OFFICIAL]
 http://psrv.io:80/883698111244/blendediptv.me/48251
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil FHD[H265]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil FHD[H265]
+http://psrv.io:80/883698111244/blendediptv.me/51972
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil FHD
 http://psrv.io:80/883698111244/blendediptv.me/47357
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Noticias" aspect-ratio="16:9",CNN Brasil HD
@@ -1977,8 +1979,6 @@ http://psrv.io:80/883698111244/blendediptv.me/45199
 http://psrv.io:80/883698111244/blendediptv.me/45235
 #EXTINF:-1 tvg-id="" tvg-name="[US] FOX Sport 1 HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] FOX Sport 1 HD
 http://psrv.io:80/883698111244/blendediptv.me/48349
-#EXTINF:-1 tvg-id="" tvg-name="[US] History 2" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] History 2
-http://psrv.io:80/883698111244/blendediptv.me/28050
 #EXTINF:-1 tvg-id="" tvg-name="[US] History Channel 2" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] History Channel 2
 http://psrv.io:80/883698111244/blendediptv.me/45184
 #EXTINF:-1 tvg-id="" tvg-name="[US] It’s At The Movies" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] It’s At The Movies
