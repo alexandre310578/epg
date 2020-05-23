@@ -791,8 +791,6 @@ http://psrv.io:80/883698111244/blendediptv.me/18751
 http://psrv.io:80/883698111244/blendediptv.me/18572
 #EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! SD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - Outros" aspect-ratio="16:9",RedeTV! SD
 http://psrv.io:80/883698111244/blendediptv.me/18573
-#EXTINF:-1 tvg-id="SBT" tvg-name="Tv Aratu SBT Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - Outros" aspect-ratio="16:9",Tv Aratu SBT Bahia HD
-http://psrv.io:80/883698111244/blendediptv.me/28059
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="Terra Viva SD" tvg-logo="http://static.psrv.io/logos/canais/terraviva.png" group-title="Abertos - Outros" aspect-ratio="16:9",Terra Viva SD
 http://psrv.io:80/883698111244/blendediptv.me/18540
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura FHD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Cultura FHD
@@ -1045,6 +1043,8 @@ http://psrv.io:80/883698111244/blendediptv.me/49619
 http://psrv.io:80/883698111244/blendediptv.me/49620
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT SP SD
 http://psrv.io:80/883698111244/blendediptv.me/49621
+#EXTINF:-1 tvg-id="SBT" tvg-name="Tv Aratu SBT Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",Tv Aratu SBT Bahia HD
+http://psrv.io:80/883698111244/blendediptv.me/28059
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports FHD" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports FHD
 http://psrv.io:80/883698111244/blendediptv.me/18852
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports FHD [H265]
