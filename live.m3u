@@ -587,29 +587,29 @@ http://psrv.io:80/883698111244/blendediptv.me/26695
 http://psrv.io:80/883698111244/blendediptv.me/18811
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="National Geographic SD" tvg-logo="http://static.psrv.io/logos/canais/nationalgeographic.png" group-title="Documentarios" aspect-ratio="16:9",National Geographic SD
 http://psrv.io:80/883698111244/blendediptv.me/18610
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium FHD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepremium.png" group-title="Legendados" aspect-ratio="16:9",Telecine Premium FHD [LEG]
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="Telecine Premium FHD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepremium.png" group-title="Legendados" aspect-ratio="16:9",Telecine Premium FHD [LEG]
 http://psrv.io:80/883698111244/blendediptv.me/49319
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepremium.png" group-title="Legendados" aspect-ratio="16:9",Telecine Premium HD [LEG]
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepremium.png" group-title="Legendados" aspect-ratio="16:9",Telecine Premium HD [LEG]
 http://psrv.io:80/883698111244/blendediptv.me/49309
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecineaction.png" group-title="Legendados" aspect-ratio="16:9",Telecine Action FHD[LEG]
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="Telecine Action FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecineaction.png" group-title="Legendados" aspect-ratio="16:9",Telecine Action FHD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50887
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecineaction.png" group-title="Legendados" aspect-ratio="16:9",Telecine Action HD[LEG]
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="Telecine Action HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecineaction.png" group-title="Legendados" aspect-ratio="16:9",Telecine Action HD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50888
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinetouch.png" group-title="Legendados" aspect-ratio="16:9",Telecine Touch FHD[LEG]
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="Telecine Touch FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinetouch.png" group-title="Legendados" aspect-ratio="16:9",Telecine Touch FHD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50889
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinetouch.png" group-title="Legendados" aspect-ratio="16:9",Telecine Touch HD[LEG]
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="Telecine Touch HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinetouch.png" group-title="Legendados" aspect-ratio="16:9",Telecine Touch HD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50890
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepipoca.png" group-title="Legendados" aspect-ratio="16:9",Telecine Pipoca FHD[LEG]
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="Telecine Pipoca FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepipoca.png" group-title="Legendados" aspect-ratio="16:9",Telecine Pipoca FHD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50885
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepipoca.png" group-title="Legendados" aspect-ratio="16:9",Telecine Pipoca HD[LEG]
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="Telecine Pipoca HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinepipoca.png" group-title="Legendados" aspect-ratio="16:9",Telecine Pipoca HD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50886
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinefun.png" group-title="Legendados" aspect-ratio="16:9",Telecine Fun FHD[LEG]
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="Telecine Fun FHD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinefun.png" group-title="Legendados" aspect-ratio="16:9",Telecine Fun FHD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50891
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinefun.png" group-title="Legendados" aspect-ratio="16:9",Telecine Fun HD[LEG]
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="Telecine Fun HD[LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinefun.png" group-title="Legendados" aspect-ratio="16:9",Telecine Fun HD[LEG]
 http://psrv.io:80/883698111244/blendediptv.me/50892
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult FHD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinecult.png" group-title="Legendados" aspect-ratio="16:9",Telecine Cult FHD [LEG]
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="Telecine Cult FHD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinecult.png" group-title="Legendados" aspect-ratio="16:9",Telecine Cult FHD [LEG]
 http://psrv.io:80/883698111244/blendediptv.me/49311
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinecult.png" group-title="Legendados" aspect-ratio="16:9",Telecine Cult HD [LEG]
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/telecinecult.png" group-title="Legendados" aspect-ratio="16:9",Telecine Cult HD [LEG]
 http://psrv.io:80/883698111244/blendediptv.me/49310
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD [LEG]" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Legendados" aspect-ratio="16:9",HBO FHD [LEG]
 http://psrv.io:80/883698111244/blendediptv.me/49307
@@ -1287,9 +1287,9 @@ http://psrv.io:80/883698111244/blendediptv.me/28075
 http://psrv.io:80/883698111244/blendediptv.me/48646
 #EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-name="TV Pai Eterno" tvg-logo="https://assine.sky.com.br/imgs/channelIcons/pai-eterno-logo.png" group-title="Religiosos" aspect-ratio="16:9",TV Pai Eterno
 http://psrv.io:80/883698111244/blendediptv.me/50811
-#EXTINF:-1 tvg-id="" tvg-name="TV RCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_RCI.png" group-title="Religiosos" aspect-ratio="16:9",TV RCI
+#EXTINF:-1 tvg-id="TVCI" tvg-name="TV RCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_RCI.png" group-title="Religiosos" aspect-ratio="16:9",TV RCI
 http://psrv.io:80/883698111244/blendediptv.me/48706
-#EXTINF:-1 tvg-id="" tvg-name="TVCI" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvci.png" group-title="Religiosos" aspect-ratio="16:9",TVCI
+#EXTINF:-1 tvg-id="TVCI" tvg-name="TVCI" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvci.png" group-title="Religiosos" aspect-ratio="16:9",TVCI
 http://psrv.io:80/883698111244/blendediptv.me/48704
 #EXTINF:-1 tvg-id="" tvg-name="[AU] ACCTV" tvg-logo="" group-title="Religiosos" aspect-ratio="16:9",[AU] ACCTV
 http://psrv.io:80/883698111244/blendediptv.me/48625
