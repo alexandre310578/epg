@@ -1263,7 +1263,7 @@ http://psrv.io:80/883698111244/blendediptv.me/28397
 http://psrv.io:80/883698111244/blendediptv.me/28398
 #EXTINF:-1 tvg-id="TV SECULO 21" tvg-name="Rede Seculo 21" tvg-logo="https://i.imgur.com/ORv5J6Y.png" group-title="Religiosos" aspect-ratio="16:9",Rede Seculo 21
 http://psrv.io:80/883698111244/blendediptv.me/50813
-#EXTINF:-1 tvg-id="" tvg-name="Rede Super" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="Religiosos" aspect-ratio="16:9",Rede Super
+#EXTINF:-1 tvg-id="REDE SUPER" tvg-name="Rede Super" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" group-title="Religiosos" aspect-ratio="16:9",Rede Super
 http://psrv.io:80/883698111244/blendediptv.me/48701
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida FHD" tvg-logo="http://static.psrv.io/logos/canais/redevida.png" group-title="Religiosos" aspect-ratio="16:9",Rede Vida FHD
 http://psrv.io:80/883698111244/blendediptv.me/18750
@@ -1441,7 +1441,7 @@ http://psrv.io:80/883698111244/blendediptv.me/48247
 http://psrv.io:80/883698111244/blendediptv.me/48244
 #EXTINF:-1 tvg-id="" tvg-name="[CN] CCTV13" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[CN] CCTV13
 http://psrv.io:80/883698111244/blendediptv.me/45271
-#EXTINF:-1 tvg-id="" tvg-name="[CN] CGTN" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[CN] CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="[CN] CGTN" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[CN] CGTN
 http://psrv.io:80/883698111244/blendediptv.me/45270
 #EXTINF:-1 tvg-id="" tvg-name="[ES]  Divinity [FILM&SERIE]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES]  Divinity [FILM&SERIE]
 http://psrv.io:80/883698111244/blendediptv.me/45297
@@ -1623,11 +1623,11 @@ http://psrv.io:80/883698111244/blendediptv.me/48217
 http://psrv.io:80/883698111244/blendediptv.me/48224
 #EXTINF:-1 tvg-id="" tvg-name="[FR] TV3V" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV3V
 http://psrv.io:80/883698111244/blendediptv.me/48218
-#EXTINF:-1 tvg-id="" tvg-name="[FR] TV5 Monde Maghreb-Orient (Arabic)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5 Monde Maghreb-Orient (Arabic)
+#EXTINF:-1 tvg-id="TV5 MONDE" tvg-name="[FR] TV5 Monde Maghreb-Orient (Arabic)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5 Monde Maghreb-Orient (Arabic)
 http://psrv.io:80/883698111244/blendediptv.me/48207
 #EXTINF:-1 tvg-id="" tvg-name="[FR] TV5 Style" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5 Style
 http://psrv.io:80/883698111244/blendediptv.me/48200
-#EXTINF:-1 tvg-id="" tvg-name="[FR] TV5Monde Pacifique" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5Monde Pacifique
+#EXTINF:-1 tvg-id="TV5 MONDE" tvg-name="[FR] TV5 Monde Pacifique" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5 Monde Pacifique
 http://psrv.io:80/883698111244/blendediptv.me/48198
 #EXTINF:-1 tvg-id="" tvg-name="[FR] TV7 Colmar" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV7 Colmar
 http://psrv.io:80/883698111244/blendediptv.me/48219
@@ -1799,13 +1799,13 @@ http://psrv.io:80/883698111244/blendediptv.me/48311
 http://psrv.io:80/883698111244/blendediptv.me/48379
 #EXTINF:-1 tvg-id="" tvg-name="[JP] GSTV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[JP] GSTV
 http://psrv.io:80/883698111244/blendediptv.me/48306
-#EXTINF:-1 tvg-id="" tvg-name="[JP] NHK World Japan 600k" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan 600k
+#EXTINF:-1 tvg-id="NHK WORLD PREMIUM" tvg-name="[JP] NHK World Japan 600k" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan 600k
 http://psrv.io:80/883698111244/blendediptv.me/48303
-#EXTINF:-1 tvg-id="" tvg-name="[JP] NHK World Japan HD" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan HD
+#EXTINF:-1 tvg-id="NHK WORLD PREMIUM" tvg-name="[JP] NHK World Japan HD" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan HD
 http://psrv.io:80/883698111244/blendediptv.me/48308
-#EXTINF:-1 tvg-id="" tvg-name="[JP] NHK World Japan live" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan live
+#EXTINF:-1 tvg-id="NHK WORLD PREMIUM" tvg-name="[JP] NHK World Japan live" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan live
 http://psrv.io:80/883698111244/blendediptv.me/48301
-#EXTINF:-1 tvg-id="" tvg-name="[JP] NHK World Japan SD" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan SD
+#EXTINF:-1 tvg-id="NHK WORLD PREMIUM" tvg-name="[JP] NHK World Japan SD" tvg-logo="http://static.psrv.io/logos/canais/nhk.png" group-title="Internacionais" aspect-ratio="16:9",[JP] NHK World Japan SD
 http://psrv.io:80/883698111244/blendediptv.me/48310
 #EXTINF:-1 tvg-id="" tvg-name="[JP] NJPW World" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[JP] NJPW World
 http://psrv.io:80/883698111244/blendediptv.me/48663
@@ -1827,7 +1827,7 @@ http://psrv.io:80/883698111244/blendediptv.me/49192
 http://psrv.io:80/883698111244/blendediptv.me/49193
 #EXTINF:-1 tvg-id="" tvg-name="[UK] BBC Arabic" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[UK] BBC Arabic
 http://psrv.io:80/883698111244/blendediptv.me/49199
-#EXTINF:-1 tvg-id="" tvg-name="[UK] BBC World News" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[UK] BBC World News
+#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-name="[UK] BBC World News" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[UK] BBC World News
 http://psrv.io:80/883698111244/blendediptv.me/49198
 #EXTINF:-1 tvg-id="" tvg-name="[UK] British Muslim TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[UK] British Muslim TV
 http://psrv.io:80/883698111244/blendediptv.me/49189
@@ -1907,7 +1907,7 @@ http://psrv.io:80/883698111244/blendediptv.me/45201
 http://psrv.io:80/883698111244/blendediptv.me/45259
 #EXTINF:-1 tvg-id="" tvg-name="[US] BlazeTV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] BlazeTV
 http://psrv.io:80/883698111244/blendediptv.me/45192
-#EXTINF:-1 tvg-id="" tvg-name="[US] Bloomberg TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Bloomberg TV
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="[US] Bloomberg TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Bloomberg TV
 http://psrv.io:80/883698111244/blendediptv.me/45215
 #EXTINF:-1 tvg-id="" tvg-name="[US] Bloomberg TV - Asia" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Bloomberg TV - Asia
 http://psrv.io:80/883698111244/blendediptv.me/45207
@@ -2031,31 +2031,31 @@ http://psrv.io:80/883698111244/blendediptv.me/45188
 http://psrv.io:80/883698111244/blendediptv.me/43889
 #EXTINF:-1 tvg-id="" tvg-name="Beach TV - 30A [US]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Beach TV - 30A [US]
 http://psrv.io:80/883698111244/blendediptv.me/45169
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Television" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Bloomberg Television
+#EXTINF:-1 tvg-id="BLOOMBERG" tvg-name="Bloomberg Television" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Bloomberg Television
 http://psrv.io:80/883698111244/blendediptv.me/28159
 #EXTINF:-1 tvg-id="" tvg-name="Boing Kids [ESP]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Boing Kids [ESP]
 http://psrv.io:80/883698111244/blendediptv.me/28166
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CANAL 26 ARGENTINA HD
+#EXTINF:-1 tvg-id="CANAL 26" tvg-name="CANAL 26 ARGENTINA HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CANAL 26 ARGENTINA HD
 http://psrv.io:80/883698111244/blendediptv.me/26427
-#EXTINF:-1 tvg-id="" tvg-name="CGTN [ARABIC-NEWs]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [ARABIC-NEWs]
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN [ARABIC-NEWs]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [ARABIC-NEWs]
 http://psrv.io:80/883698111244/blendediptv.me/45166
-#EXTINF:-1 tvg-id="" tvg-name="CGTN [CH-WIKI]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [CH-WIKI]
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN [CH-WIKI]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [CH-WIKI]
 http://psrv.io:80/883698111244/blendediptv.me/45163
-#EXTINF:-1 tvg-id="" tvg-name="CGTN [DOC-EUA]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [DOC-EUA]
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN [DOC-EUA]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [DOC-EUA]
 http://psrv.io:80/883698111244/blendediptv.me/45162
-#EXTINF:-1 tvg-id="" tvg-name="CGTN [FRANCE]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [FRANCE]
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN [FRANCE]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [FRANCE]
 http://psrv.io:80/883698111244/blendediptv.me/45164
-#EXTINF:-1 tvg-id="" tvg-name="CGTN [RUSS]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [RUSS]
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN [RUSS]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [RUSS]
 http://psrv.io:80/883698111244/blendediptv.me/45165
 #EXTINF:-1 tvg-id="" tvg-name="Channel Adult [4K]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Channel Adult [4K]
 http://psrv.io:80/883698111244/blendediptv.me/49629
 #EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Classic Arts Showcase
 http://psrv.io:80/883698111244/blendediptv.me/45167
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CNN INTERNACIONAL SD
+#EXTINF:-1 tvg-id="CNN INTERNATIONAL" tvg-name="CNN INTERNACIONAL SD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CNN INTERNACIONAL SD
 http://psrv.io:80/883698111244/blendediptv.me/26438
-#EXTINF:-1 tvg-id="" tvg-name="DW ALEMANHA HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",DW ALEMANHA HD
+#EXTINF:-1 tvg-id="DW" tvg-name="DW ALEMANHA HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",DW ALEMANHA HD
 http://psrv.io:80/883698111244/blendediptv.me/26429
-#EXTINF:-1 tvg-id="" tvg-name="Euro Channel FHD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Euro Channel FHD
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="Euro Channel FHD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Euro Channel FHD
 http://psrv.io:80/883698111244/blendediptv.me/28400
 #EXTINF:-1 tvg-id="" tvg-name="France 24 [Franca]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",France 24 [Franca]
 http://psrv.io:80/883698111244/blendediptv.me/43891
