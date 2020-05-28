@@ -817,6 +817,18 @@ http://psrv.io:80/883698111244/blendediptv.me/18531
 http://psrv.io:80/883698111244/blendediptv.me/18532
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band [4K]" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band [4K]
 http://psrv.io:80/883698111244/blendediptv.me/26179
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band RJ FHD
+http://psrv.io:80/883698111244/blendediptv.me/52352
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band RJ HD
+http://psrv.io:80/883698111244/blendediptv.me/52351
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ SD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band RJ SD
+http://psrv.io:80/883698111244/blendediptv.me/52350
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band SP FHD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band SP FHD
+http://psrv.io:80/883698111244/blendediptv.me/18786
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band SP HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band SP HD
+http://psrv.io:80/883698111244/blendediptv.me/18727
+#EXTINF:-1 tvg-id="BAND" tvg-name="Band SP SD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band SP SD
+http://psrv.io:80/883698111244/blendediptv.me/18728
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band Bahia SD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band Bahia SD
 http://psrv.io:80/883698111244/blendediptv.me/28060
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band Goiania FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band Goiania FHD [H265]
@@ -825,12 +837,6 @@ http://psrv.io:80/883698111244/blendediptv.me/25249
 http://psrv.io:80/883698111244/blendediptv.me/22242
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band Sergipe HD
 http://psrv.io:80/883698111244/blendediptv.me/22476
-#EXTINF:-1 tvg-id="BAND" tvg-name="Band SP FHD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band SP FHD
-http://psrv.io:80/883698111244/blendediptv.me/18786
-#EXTINF:-1 tvg-id="BAND" tvg-name="Band SP HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band SP HD
-http://psrv.io:80/883698111244/blendediptv.me/18727
-#EXTINF:-1 tvg-id="BAND" tvg-name="Band SP SD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band SP SD
-http://psrv.io:80/883698111244/blendediptv.me/18728
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ FHD
 http://psrv.io:80/883698111244/blendediptv.me/18415
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ FHD [H265]
@@ -2477,10 +2483,6 @@ http://psrv.io:80/883698111244/blendediptv.me/50733
 http://psrv.io:80/883698111244/blendediptv.me/50735
 #EXTINF:-1 tvg-id="" tvg-name="[CAM] SP -Marginal Pinheiros Sentido Castelo branco 1" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] SP -Marginal Pinheiros Sentido Castelo branco 1
 http://psrv.io:80/883698111244/blendediptv.me/50738
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] SC - Barra da Lagoa" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] SC - Barra da Lagoa
-http://psrv.io:80/883698111244/blendediptv.me/50739
-#EXTINF:-1 tvg-id="" tvg-name="[CAM] Ryazan Russia 09 HD" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] Ryazan Russia 09 HD
-http://psrv.io:80/883698111244/blendediptv.me/50741
 #EXTINF:-1 tvg-id="" tvg-name="[CAM] CBN SP" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] CBN SP
 http://psrv.io:80/883698111244/blendediptv.me/50746
 #EXTINF:-1 tvg-id="" tvg-name="[CAM] FM O dia" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[CAM] FM O dia
