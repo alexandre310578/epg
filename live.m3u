@@ -777,44 +777,6 @@ http://psrv.io:80/883698111244/blendediptv.me/18524
 http://psrv.io:80/883698111244/blendediptv.me/18525
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZooMoo SD" tvg-logo="https://www.nowonline.com.br/img/channels/zoo_moo.png" group-title="Infantis" aspect-ratio="16:9",ZooMoo SD
 http://psrv.io:80/883698111244/blendediptv.me/28199
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura FHD" tvg-logo="http://static.psrv.io/logos/canais/futura.png" group-title="Abertos - Outros" aspect-ratio="16:9",Futura FHD
-http://psrv.io:80/883698111244/blendediptv.me/28198
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura SD" tvg-logo="http://static.psrv.io/logos/canais/futura.png" group-title="Abertos - Outros" aspect-ratio="16:9",Futura SD
-http://psrv.io:80/883698111244/blendediptv.me/18656
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="Rede Brasil SD" tvg-logo="http://static.psrv.io/logos/canais/redebrasil.png" group-title="Abertos - Outros" aspect-ratio="16:9",Rede Brasil SD
-http://psrv.io:80/883698111244/blendediptv.me/18574
-#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! [4K]" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - Outros" aspect-ratio="16:9",RedeTV! [4K]
-http://psrv.io:80/883698111244/blendediptv.me/26183
-#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! FHD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - Outros" aspect-ratio="16:9",RedeTV! FHD
-http://psrv.io:80/883698111244/blendediptv.me/18751
-#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! HD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - Outros" aspect-ratio="16:9",RedeTV! HD
-http://psrv.io:80/883698111244/blendediptv.me/18572
-#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! SD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - Outros" aspect-ratio="16:9",RedeTV! SD
-http://psrv.io:80/883698111244/blendediptv.me/18573
-#EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="Terra Viva SD" tvg-logo="http://static.psrv.io/logos/canais/terraviva.png" group-title="Abertos - Outros" aspect-ratio="16:9",Terra Viva SD
-http://psrv.io:80/883698111244/blendediptv.me/18540
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura FHD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Cultura FHD
-http://psrv.io:80/883698111244/blendediptv.me/18752
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura HD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Cultura HD
-http://psrv.io:80/883698111244/blendediptv.me/18505
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura SD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Cultura SD
-http://psrv.io:80/883698111244/blendediptv.me/18506
-#EXTINF:-1 tvg-id="TVE" tvg-name="TV Educativa de Porto Alegre" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Educativa de Porto Alegre
-http://psrv.io:80/883698111244/blendediptv.me/49233
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV Escola SD" tvg-logo="http://static.psrv.io/logos/canais/tvescola.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Escola SD
-http://psrv.io:80/883698111244/blendediptv.me/18527
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV Gazeta [4K]" tvg-logo="http://static.psrv.io/logos/canais/tvgazeta.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Gazeta [4K]
-http://psrv.io:80/883698111244/blendediptv.me/49628
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV Gazeta SP HD" tvg-logo="http://static.psrv.io/logos/canais/tvgazeta.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Gazeta SP HD
-http://psrv.io:80/883698111244/blendediptv.me/18526
-#EXTINF:-1 tvg-id="" tvg-name="TV Nova Era HD [Temporario]" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Nova Era HD [Temporario]
-http://psrv.io:80/883698111244/blendediptv.me/50812
-#EXTINF:-1 tvg-id="TV CAMARA" tvg-name="TV Camara SD" tvg-logo="http://static.psrv.io/logos/canais/tvcamara.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Camara SD
-http://psrv.io:80/883698111244/blendediptv.me/18528
-#EXTINF:-1 tvg-id="TV JUSTICA" tvg-name="TV Justica SD" tvg-logo="http://static.psrv.io/logos/canais/tvjustica.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Justica SD
-http://psrv.io:80/883698111244/blendediptv.me/18531
-#EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV Senado SD" tvg-logo="http://static.psrv.io/logos/canais/tvsenado.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Senado SD
-http://psrv.io:80/883698111244/blendediptv.me/18532
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band [4K]" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band [4K]
 http://psrv.io:80/883698111244/blendediptv.me/26179
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",Band RJ FHD
@@ -981,6 +943,14 @@ http://psrv.io:80/883698111244/blendediptv.me/18396
 http://psrv.io:80/883698111244/blendediptv.me/22124
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV Anhaguera HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",TV Anhaguera HD
 http://psrv.io:80/883698111244/blendediptv.me/28062
+#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! [4K]" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - RedeTV" aspect-ratio="16:9",RedeTV! [4K]
+http://psrv.io:80/883698111244/blendediptv.me/26183
+#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! FHD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - RedeTV" aspect-ratio="16:9",RedeTV! FHD
+http://psrv.io:80/883698111244/blendediptv.me/18751
+#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! HD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - RedeTV" aspect-ratio="16:9",RedeTV! HD
+http://psrv.io:80/883698111244/blendediptv.me/18572
+#EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! SD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - RedeTV" aspect-ratio="16:9",RedeTV! SD
+http://psrv.io:80/883698111244/blendediptv.me/18573
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV 4K [TESTE]" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV 4K [TESTE]
 http://psrv.io:80/883698111244/blendediptv.me/26182
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP FHD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV SP FHD
@@ -1023,8 +993,6 @@ http://psrv.io:80/883698111244/blendediptv.me/45160
 http://psrv.io:80/883698111244/blendediptv.me/45159
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV VITORIA ES SD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV VITORIA ES SD
 http://psrv.io:80/883698111244/blendediptv.me/45158
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT (PE) Caruaru HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT (PE) Caruaru HD
-http://psrv.io:80/883698111244/blendediptv.me/48702
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT [4K]" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT [4K]
 http://psrv.io:80/883698111244/blendediptv.me/26188
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT FHD
@@ -1049,8 +1017,40 @@ http://psrv.io:80/883698111244/blendediptv.me/51939
 http://psrv.io:80/883698111244/blendediptv.me/22470
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT Sergipe HD
 http://psrv.io:80/883698111244/blendediptv.me/22473
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT (PE) Caruaru HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT (PE) Caruaru HD
+http://psrv.io:80/883698111244/blendediptv.me/48702
 #EXTINF:-1 tvg-id="SBT" tvg-name="Tv Aratu SBT Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",Tv Aratu SBT Bahia HD
 http://psrv.io:80/883698111244/blendediptv.me/28059
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura FHD" tvg-logo="http://static.psrv.io/logos/canais/futura.png" group-title="Abertos - Outros" aspect-ratio="16:9",Futura FHD
+http://psrv.io:80/883698111244/blendediptv.me/28198
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura SD" tvg-logo="http://static.psrv.io/logos/canais/futura.png" group-title="Abertos - Outros" aspect-ratio="16:9",Futura SD
+http://psrv.io:80/883698111244/blendediptv.me/18656
+#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="Rede Brasil SD" tvg-logo="http://static.psrv.io/logos/canais/redebrasil.png" group-title="Abertos - Outros" aspect-ratio="16:9",Rede Brasil SD
+http://psrv.io:80/883698111244/blendediptv.me/18574
+#EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="Terra Viva SD" tvg-logo="http://static.psrv.io/logos/canais/terraviva.png" group-title="Abertos - Outros" aspect-ratio="16:9",Terra Viva SD
+http://psrv.io:80/883698111244/blendediptv.me/18540
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura FHD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Cultura FHD
+http://psrv.io:80/883698111244/blendediptv.me/18752
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura HD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Cultura HD
+http://psrv.io:80/883698111244/blendediptv.me/18505
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura SD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Cultura SD
+http://psrv.io:80/883698111244/blendediptv.me/18506
+#EXTINF:-1 tvg-id="TVE" tvg-name="TV Educativa de Porto Alegre" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Educativa de Porto Alegre
+http://psrv.io:80/883698111244/blendediptv.me/49233
+#EXTINF:-1 tvg-id="TV ESCOLA" tvg-name="TV Escola SD" tvg-logo="http://static.psrv.io/logos/canais/tvescola.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Escola SD
+http://psrv.io:80/883698111244/blendediptv.me/18527
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV Gazeta [4K]" tvg-logo="http://static.psrv.io/logos/canais/tvgazeta.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Gazeta [4K]
+http://psrv.io:80/883698111244/blendediptv.me/49628
+#EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV Gazeta SP HD" tvg-logo="http://static.psrv.io/logos/canais/tvgazeta.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Gazeta SP HD
+http://psrv.io:80/883698111244/blendediptv.me/18526
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova Era HD [Temporario]" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Nova Era HD [Temporario]
+http://psrv.io:80/883698111244/blendediptv.me/50812
+#EXTINF:-1 tvg-id="TV CAMARA" tvg-name="TV Camara SD" tvg-logo="http://static.psrv.io/logos/canais/tvcamara.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Camara SD
+http://psrv.io:80/883698111244/blendediptv.me/18528
+#EXTINF:-1 tvg-id="TV JUSTICA" tvg-name="TV Justica SD" tvg-logo="http://static.psrv.io/logos/canais/tvjustica.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Justica SD
+http://psrv.io:80/883698111244/blendediptv.me/18531
+#EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV Senado SD" tvg-logo="http://static.psrv.io/logos/canais/tvsenado.png" group-title="Abertos - Outros" aspect-ratio="16:9",TV Senado SD
+http://psrv.io:80/883698111244/blendediptv.me/18532
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports FHD" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports FHD
 http://psrv.io:80/883698111244/blendediptv.me/18852
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports FHD [H265]
