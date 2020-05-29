@@ -983,32 +983,6 @@ http://psrv.io:80/883698111244/blendediptv.me/22124
 http://psrv.io:80/883698111244/blendediptv.me/28062
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV 4K [TESTE]" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV 4K [TESTE]
 http://psrv.io:80/883698111244/blendediptv.me/26182
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV BA HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV BA HD
-http://psrv.io:80/883698111244/blendediptv.me/50772
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Cabralia BA HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Cabralia BA HD
-http://psrv.io:80/883698111244/blendediptv.me/18496
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Cabralia BA SD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Cabralia BA SD
-http://psrv.io:80/883698111244/blendediptv.me/18495
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV DF HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV DF HD
-http://psrv.io:80/883698111244/blendediptv.me/18494
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Interior BA HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Interior BA HD
-http://psrv.io:80/883698111244/blendediptv.me/49626
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV MG HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV MG HD
-http://psrv.io:80/883698111244/blendediptv.me/18501
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV PR HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV PR HD
-http://psrv.io:80/883698111244/blendediptv.me/22471
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Rio FHD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Rio FHD
-http://psrv.io:80/883698111244/blendediptv.me/18748
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Rio HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Rio HD
-http://psrv.io:80/883698111244/blendediptv.me/18503
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV RS HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV RS HD
-http://psrv.io:80/883698111244/blendediptv.me/18492
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Sao Jose Rio Preto HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Sao Jose Rio Preto HD
-http://psrv.io:80/883698111244/blendediptv.me/29021
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV SD
-http://psrv.io:80/883698111244/blendediptv.me/22277
-#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Sergipe HD
-http://psrv.io:80/883698111244/blendediptv.me/22474
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP FHD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV SP FHD
 http://psrv.io:80/883698111244/blendediptv.me/18765
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV SP FHD [H265]
@@ -1017,6 +991,32 @@ http://psrv.io:80/883698111244/blendediptv.me/25221
 http://psrv.io:80/883698111244/blendediptv.me/18575
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SP SD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV SP SD
 http://psrv.io:80/883698111244/blendediptv.me/18579
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Rio FHD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Rio FHD
+http://psrv.io:80/883698111244/blendediptv.me/18748
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Rio HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Rio HD
+http://psrv.io:80/883698111244/blendediptv.me/18503
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV SD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV SD
+http://psrv.io:80/883698111244/blendediptv.me/22277
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV DF HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV DF HD
+http://psrv.io:80/883698111244/blendediptv.me/18494
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV BA HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV BA HD
+http://psrv.io:80/883698111244/blendediptv.me/50772
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Cabralia BA HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Cabralia BA HD
+http://psrv.io:80/883698111244/blendediptv.me/18496
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Cabralia BA SD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Cabralia BA SD
+http://psrv.io:80/883698111244/blendediptv.me/18495
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Interior BA HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Interior BA HD
+http://psrv.io:80/883698111244/blendediptv.me/49626
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV MG HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV MG HD
+http://psrv.io:80/883698111244/blendediptv.me/18501
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV PR HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV PR HD
+http://psrv.io:80/883698111244/blendediptv.me/22471
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV RS HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV RS HD
+http://psrv.io:80/883698111244/blendediptv.me/18492
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Sao Jose Rio Preto HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Sao Jose Rio Preto HD
+http://psrv.io:80/883698111244/blendediptv.me/29021
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV Sergipe HD
+http://psrv.io:80/883698111244/blendediptv.me/22474
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV VITORIA ES FHD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV VITORIA ES FHD
 http://psrv.io:80/883698111244/blendediptv.me/45160
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RecordTV VITORIA ES HD" tvg-logo="http://static.psrv.io/logos/canais/record.png" group-title="Abertos - Record" aspect-ratio="16:9",RecordTV VITORIA ES HD
@@ -1031,24 +1031,24 @@ http://psrv.io:80/883698111244/blendediptv.me/26188
 http://psrv.io:80/883698111244/blendediptv.me/18764
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT HD
 http://psrv.io:80/883698111244/blendediptv.me/18569
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Interior" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT Interior
-http://psrv.io:80/883698111244/blendediptv.me/51939
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PR SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT PR SD
-http://psrv.io:80/883698111244/blendediptv.me/22470
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT RJ HD
-http://psrv.io:80/883698111244/blendediptv.me/22458
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT RJ HD
-http://psrv.io:80/883698111244/blendediptv.me/49618
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT SD
 http://psrv.io:80/883698111244/blendediptv.me/18570
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT Sergipe HD
-http://psrv.io:80/883698111244/blendediptv.me/22473
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP FHD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT SP FHD
 http://psrv.io:80/883698111244/blendediptv.me/49619
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT SP HD
 http://psrv.io:80/883698111244/blendediptv.me/49620
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT SP SD
 http://psrv.io:80/883698111244/blendediptv.me/49621
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT RJ HD
+http://psrv.io:80/883698111244/blendediptv.me/22458
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT RJ HD
+http://psrv.io:80/883698111244/blendediptv.me/49618
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Interior" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT Interior
+http://psrv.io:80/883698111244/blendediptv.me/51939
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PR SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT PR SD
+http://psrv.io:80/883698111244/blendediptv.me/22470
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT Sergipe HD
+http://psrv.io:80/883698111244/blendediptv.me/22473
 #EXTINF:-1 tvg-id="SBT" tvg-name="Tv Aratu SBT Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",Tv Aratu SBT Bahia HD
 http://psrv.io:80/883698111244/blendediptv.me/28059
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports FHD" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports FHD
