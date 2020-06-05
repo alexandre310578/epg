@@ -781,8 +781,6 @@ http://psrv.io:80/883698111244/blendediptv.me/25312
 http://psrv.io:80/883698111244/blendediptv.me/18707
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate SD" tvg-logo="http://static.psrv.io/logos/canais/combate.png" group-title="Esportes" aspect-ratio="16:9",Combate SD
 http://psrv.io:80/883698111244/blendediptv.me/18708
-#EXTINF:-1 tvg-id="ESPORTE INTERATIVO" tvg-name="EI Ao-vivo HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-0.png" group-title="Esportes" aspect-ratio="16:9",EI Ao-vivo HD
-http://psrv.io:80/883698111244/blendediptv.me/45090
 #EXTINF:-1 tvg-id="ESPORTE INTERATIVO" tvg-name="EI Plus 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-0.png" group-title="Esportes" aspect-ratio="16:9",EI Plus 1 HD
 http://psrv.io:80/883698111244/blendediptv.me/22978
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN FHD
@@ -995,6 +993,8 @@ http://psrv.io:80/883698111244/blendediptv.me/50811
 http://psrv.io:80/883698111244/blendediptv.me/48706
 #EXTINF:-1 tvg-id="TVCI" tvg-name="TVCI" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvci.png" group-title="Religiosos" aspect-ratio="16:9",TVCI
 http://psrv.io:80/883698111244/blendediptv.me/48704
+#EXTINF:-1 tvg-id="" tvg-name="Tv Aperiper HD" tvg-logo="http://z4.vc/X0C" group-title="Religiosos" aspect-ratio="16:9",Tv Aperiper HD
+http://psrv.io:80/883698111244/blendediptv.me/22473
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Star Trek 1 Temporada" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",[24h] Star Trek 1 Temporada
 http://psrv.io:80/883698111244/blendediptv.me/33504
 #EXTINF:-1 tvg-id="" tvg-name="[24h] Star Trek 2 Temporada" tvg-logo="" group-title="24 Horas" aspect-ratio="16:9",[24h] Star Trek 2 Temporada
