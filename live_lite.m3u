@@ -273,6 +273,12 @@ http://psrv.io:80/883698111244/blendediptv.me/18550
 http://psrv.io:80/883698111244/blendediptv.me/50883
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 2
 http://psrv.io:80/883698111244/blendediptv.me/50884
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 3
+http://psrv.io:80/883698111244/blendediptv.me/52433
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 4
+http://psrv.io:80/883698111244/blendediptv.me/52434
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 5
+http://psrv.io:80/883698111244/blendediptv.me/52435
 #EXTINF:-1 tvg-id="AEE" tvg-name="A&E FHD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E FHD
 http://psrv.io:80/883698111244/blendediptv.me/18858
 #EXTINF:-1 tvg-id="AEE" tvg-name="A&E FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E FHD [H265]
