@@ -857,9 +857,9 @@ http://psrv.io:80/movie/883698111244/blendediptv.me/38500.mp4
 http://psrv.io:80/movie/883698111244/blendediptv.me/38501.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jogador Numero 1 4K" tvg-logo="" group-title="Filmes | 4K" aspect-ratio="16:9",Jogador Numero 1 4K
 http://psrv.io:80/movie/883698111244/blendediptv.me/38502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wick 3 4K" tvg-logo="" group-title="Filmes | 4K" aspect-ratio="16:9",John Wick 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum (2019) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg" group-title="Filmes | 4K" aspect-ratio="16:9",John Wick 3: Parabellum (2019) 4K
 http://psrv.io:80/movie/883698111244/blendediptv.me/38503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wick 3 4K [HDR]" tvg-logo="" group-title="Filmes | 4K" aspect-ratio="16:9",John Wick 3 4K [HDR]
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum (2019) 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg" group-title="Filmes | 4K" aspect-ratio="16:9",John Wick 3: Parabellum (2019) 4K [HDR]
 http://psrv.io:80/movie/883698111244/blendediptv.me/38504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit 4K" tvg-logo="" group-title="Filmes | 4K" aspect-ratio="16:9",Jojo Rabbit 4K
 http://psrv.io:80/movie/883698111244/blendediptv.me/49242.mp4
@@ -1517,9 +1517,9 @@ http://psrv.io:80/movie/883698111244/blendediptv.me/38785.mp4
 http://psrv.io:80/movie/883698111244/blendediptv.me/38786.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - 2012" tvg-logo="" group-title="Filmes | Acao" aspect-ratio="16:9",Jogos Vorazes - 2012
 http://psrv.io:80/movie/883698111244/blendediptv.me/38787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wicks" tvg-logo="" group-title="Filmes | Acao" aspect-ratio="16:9",John Wicks
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: De Volta ao Jogo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg" group-title="Filmes | Acao" aspect-ratio="16:9",John Wick: De Volta ao Jogo (2014)
 http://psrv.io:80/movie/883698111244/blendediptv.me/38788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wicks" tvg-logo="" group-title="Filmes | Acao" aspect-ratio="16:9",John Wicks
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 2: Um Novo Dia para Matar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k36UzsRQaY6E055cdYPdYbyREer.jpg" group-title="Filmes | Acao" aspect-ratio="16:9",John Wick 2: Um Novo Dia para Matar (2017)
 http://psrv.io:80/movie/883698111244/blendediptv.me/38789.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic Park 3 - 2001" tvg-logo="" group-title="Filmes | Acao" aspect-ratio="16:9",Jurassic Park 3 - 2001
 http://psrv.io:80/movie/883698111244/blendediptv.me/38790.mp4
@@ -5923,7 +5923,7 @@ http://psrv.io:80/movie/883698111244/blendediptv.me/49241.mp4
 http://psrv.io:80/movie/883698111244/blendediptv.me/40768.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jogue ou Morra" tvg-logo="" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Jogue ou Morra
 http://psrv.io:80/movie/883698111244/blendediptv.me/48963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wicks" tvg-logo="" group-title="Filmes | Lancamentos" aspect-ratio="16:9",John Wicks
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",John Wick 3: Parabellum (2019)
 http://psrv.io:80/movie/883698111244/blendediptv.me/40769.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Joias Brutas" tvg-logo="" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Joias Brutas
 http://psrv.io:80/movie/883698111244/blendediptv.me/43862.mp4
@@ -6911,7 +6911,7 @@ http://psrv.io:80/movie/883698111244/blendediptv.me/41012.mp4
 http://psrv.io:80/movie/883698111244/blendediptv.me/45101.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jexi [L]" tvg-logo="" group-title="Filmes | Legendados" aspect-ratio="16:9",Jexi [L]
 http://psrv.io:80/movie/883698111244/blendediptv.me/43287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="John Wick Chapter 3 Parabellum Legendado" tvg-logo="" group-title="Filmes | Legendados" aspect-ratio="16:9",John Wick Chapter 3 Parabellum Legendado
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum [L] (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",John Wick 3: Parabellum [L] (2019)
 http://psrv.io:80/movie/883698111244/blendediptv.me/41013.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit [L]" tvg-logo="" group-title="Filmes | Legendados" aspect-ratio="16:9",Jojo Rabbit [L]
 http://psrv.io:80/movie/883698111244/blendediptv.me/44447.mp4
@@ -8373,4 +8373,224 @@ http://psrv.io:80/movie/883698111244/blendediptv.me/43561.mp4
 http://psrv.io:80/movie/883698111244/blendediptv.me/43562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Adulto - 2019" tvg-logo="" group-title="Stand Up Comedy" aspect-ratio="16:9",Whindersson Nunes: Adulto - 2019
 http://psrv.io:80/movie/883698111244/blendediptv.me/40943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1Br [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EiAX4eChSWQHwgIFAZbPgXKCJ6.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",1Br [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abe [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76p3jexoFjSxTiChHbyDh0FwAun.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Abe [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Incrivel Historia da Pera Gigante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDSOijmWcW6paconPJXSCC1h7y7.jpg" group-title="Filmes | Animacao" aspect-ratio="16:9",A Incrivel Historia da Pera Gigante
+http://psrv.io:80/movie/883698111244/blendediptv.me/52355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite e Delas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpJBPKO4S8W29snlAhEPZwC7oC6.jpg" group-title="Filmes | Comedia" aspect-ratio="16:9",A Noite e Delas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ardida como Pimenta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYsageDBMvUbqP9svZ2Y5B8CKLv.jpg" group-title="Filmes | Faroeste" aspect-ratio="16:9",Ardida como Pimenta
+http://psrv.io:80/movie/883698111244/blendediptv.me/52357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arkansas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieNGttYsxunAANK9LRZa4LdkEqi.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Arkansas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra de um Revolver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0B331VlMnCmTrsLDQhtfEe8286.jpg" group-title="Filmes | Faroeste" aspect-ratio="16:9",A Sombra de um Revolver
+http://psrv.io:80/movie/883698111244/blendediptv.me/52359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ate o Limite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrzBz2IhbusTrcPIq28VhBylRZ2.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Ate o Limite
+http://psrv.io:80/movie/883698111244/blendediptv.me/52360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babe - O Porquinho Atrapalhado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf34UAfyi978TYyy8Yl6oqMOsQZ.jpg" group-title="Filmes | Comedia" aspect-ratio="16:9",Babe - O Porquinho Atrapalhado
+http://psrv.io:80/movie/883698111244/blendediptv.me/52361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banho de Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGBGBgqqHf8UpuwSpwpHNeAmRct.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Banho de Sangue
+http://psrv.io:80/movie/883698111244/blendediptv.me/52362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Banze no Oeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQAH5laJoMaZvJyorOHPJknKeCd.jpg" group-title="Filmes | Faroeste" aspect-ratio="16:9",Banze no Oeste
+http://psrv.io:80/movie/883698111244/blendediptv.me/52363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bata Antes de Entrar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCFlhiwOqAA2R3CBlOZtDtQLCge.jpg" group-title="Filmes | Drama" aspect-ratio="16:9",Bata Antes de Entrar
+http://psrv.io:80/movie/883698111244/blendediptv.me/52364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boneco do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4T7U5uhuNsHQBpFF2iSfKOuhgX.jpg" group-title="Filmes | Terror" aspect-ratio="16:9",Boneco do Mal
+http://psrv.io:80/movie/883698111244/blendediptv.me/52365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade das Sombras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nA2PavyofcdZ2K84sxpLde2aaB.jpg" group-title="Filmes | Fantasia e Ficcao" aspect-ratio="16:9",Cidade das Sombras
+http://psrv.io:80/movie/883698111244/blendediptv.me/52366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Copperman [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2R3APOC2cR4UME7XK88uCMvbwm.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Copperman [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball Evolution" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23PcKOqNdhKeMFzORzQGn5eC44N.jpg" group-title="Filmes | Acao" aspect-ratio="16:9",Dragonball Evolution
+http://psrv.io:80/movie/883698111244/blendediptv.me/52368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duelles [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fa8nf1EzfU8TbZevEdjosWk7vIF.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Duelles [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espada da Vinganca: Ate a Ultima Linha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2rpMRcKjNPYhCDtRu5VSskvVgI.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Espada da Vinganca: Ate a Ultima Linha
+http://psrv.io:80/movie/883698111244/blendediptv.me/52370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fracao de Segundos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYjx4zBS5uKC5u6pIObkawyv0QZ.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Fracao de Segundos
+http://psrv.io:80/movie/883698111244/blendediptv.me/52371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Give Me Liberty [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Give Me Liberty [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harriet" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFfn2PISJ8u4Ui45kIY6vASEHjq.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Harriet
+http://psrv.io:80/movie/883698111244/blendediptv.me/52373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herois de Uma Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Herois de Uma Guerra
+http://psrv.io:80/movie/883698111244/blendediptv.me/52374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lambada, A Danca Proibida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54clJUEUV2cKRLJP8YUfQMZvfon.jpg" group-title="Filmes | Romance" aspect-ratio="16:9",Lambada, A Danca Proibida
+http://psrv.io:80/movie/883698111244/blendediptv.me/52375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGO DC: Shazam – Magia e Monstros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EKqlOgbpTRyDRvOB8rkda6dJFg.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",LEGO DC: Shazam – Magia e Monstros
+http://psrv.io:80/movie/883698111244/blendediptv.me/52376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Low Tide [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEZrBPoWu4QYgOh594uCxDCEQDx.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Low Tide [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minority Report: A Nova Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46W2XlfckBMIutQxtydJ44Ograg.jpg" group-title="Filmes | Acao" aspect-ratio="16:9",Minority Report: A Nova Lei
+http://psrv.io:80/movie/883698111244/blendediptv.me/52378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rio das Almas Perdidas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8BNRZ8cA97dn4lkfLrUOGVNtHp.jpg" group-title="Filmes | Faroeste" aspect-ratio="16:9",O Rio das Almas Perdidas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Suspeitos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RrGQ3kSiu2JJatkQ3o0DdXUGUU.jpg" group-title="Filmes | Drama" aspect-ratio="16:9",Os Suspeitos
+http://psrv.io:80/movie/883698111244/blendediptv.me/52380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinocchio [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayPQsJFr0EwyoPYunQ6riYclGYn.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Pinocchio [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prazeres Mortais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UrNb7sdolnuqxBJ4I8OxTUvTmQ.jpg" group-title="Filmes | Suspense" aspect-ratio="16:9",Prazeres Mortais
+http://psrv.io:80/movie/883698111244/blendediptv.me/52382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pressagio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fI1qeXSOB1j2JTclt5nuEddgXj.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Pressagio
+http://psrv.io:80/movie/883698111244/blendediptv.me/52383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raca e Redencao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Raca e Redencao
+http://psrv.io:80/movie/883698111244/blendediptv.me/52384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei dos Ladroes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkI8oBMIOAnCEJFbgFgI7IZ302G.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Rei dos Ladroes
+http://psrv.io:80/movie/883698111244/blendediptv.me/52385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Risco Total" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2neSG07q03vM5jVA70LC3MB9dnE.jpg" group-title="Filmes | Acao" aspect-ratio="16:9",Risco Total
+http://psrv.io:80/movie/883698111244/blendediptv.me/52386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salomao e a Rainha de Saba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQPLRT014vOADFyvh54TpXFyBPZ.jpg" group-title="Filmes | Romance" aspect-ratio="16:9",Salomao e a Rainha de Saba
+http://psrv.io:80/movie/883698111244/blendediptv.me/52387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scoob [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Scoob [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shooting Heroin [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UCth6TIpxeLMFm1kOinTzzerj4.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Shooting Heroin [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobreviver a Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Sobreviver a Noite
+http://psrv.io:80/movie/883698111244/blendediptv.me/52390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Straight Outta Compton - A Historia do NWA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9B63hMwU6iICtNDTISCaZQ5US7R.jpg" group-title="Filmes | Drama" aspect-ratio="16:9",Straight Outta Compton - A Historia do NWA
+http://psrv.io:80/movie/883698111244/blendediptv.me/52391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sua Ultima Facanha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRSBYvEZb0laAf3uT8lRHdDpzg8.jpg" group-title="Filmes | Faroeste" aspect-ratio="16:9",Sua Ultima Facanha
+http://psrv.io:80/movie/883698111244/blendediptv.me/52392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Survive The Night [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCDFEzX1omKlXp7jTqJmLoxJTr9.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Survive The Night [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testemunhas Silenciosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HyZnSoC1mNCpummiG8rcrjc2ec.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Testemunhas Silenciosas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Blackout [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqJ7ncSv3S2hy79jr0XTp4kFFEe.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",The Blackout [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Death And Life Of John F Donovan [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bhI7Ivk7VmvUaJaDTxJUgOXp1E.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",The Death And Life Of John F Donovan [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Head Hunter [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqQ9WfTr4BpF6bJjz4GMS4BuLhb.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",The Head Hunter [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunt [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDt3GkephI5yrRsEgLfdo3MYxyj.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",The Hunt [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Vast Of Night [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wstBF4Yv6Jk90BjYf25mq1zqGxk.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",The Vast Of Night [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toni Kroos [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYXOJnNSLHjQr2WG85ANSzo9Gbj.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Toni Kroos [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Crime para Dois" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywTSQfjmRe9DXLAgxXbFpjZJ2Yo.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Um Crime para Dois
+http://psrv.io:80/movie/883698111244/blendediptv.me/52401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wendy [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nphsStbtAuJ2IaXtCvDXDwMUF5N.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Wendy [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Crianca Zombie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOGd9M2bxx6yxpvfZ6p9pYD13W.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",A Crianca Zombie
+http://psrv.io:80/movie/883698111244/blendediptv.me/52403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viveiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjnFFIllTenHVHq3m00e1DJTN4Q.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Viveiro
+http://psrv.io:80/movie/883698111244/blendediptv.me/52495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidas Duplas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g4S7HNzOrE1666PRpqJPfDOIGV.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Vidas Duplas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Chance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNUHzkgP3zFjbnbHhEc0Em0QvtI.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",A Ultima Chance
+http://psrv.io:80/movie/883698111244/blendediptv.me/52493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tina & Teo - A Pedra Encantada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNygVjotBeHHMSfVfhuTWZvkTr9.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Tina & Teo - A Pedra Encantada
+http://psrv.io:80/movie/883698111244/blendediptv.me/52492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Days of American Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",The Last Days of American Crime
+http://psrv.io:80/movie/883698111244/blendediptv.me/52491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman: Entre a Foice e o Martelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/attHlVU6J8vO5QqSAqDmmF6Kt2A.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Superman: Entre a Foice e o Martelo
+http://psrv.io:80/movie/883698111244/blendediptv.me/52490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lealdade a Prova" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZMnmVQxLwKGNlCiUa7NAtCbpk2.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Lealdade a Prova
+http://psrv.io:80/movie/883698111244/blendediptv.me/52489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seducao Perigosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dztS7aqdW1BMbyr4beisngVf7kE.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Seducao Perigosa
+http://psrv.io:80/movie/883698111244/blendediptv.me/52488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sargento Stubby Um Heroi Americano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XVsObudHhHJrNLB5l08yyZ8P6o.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Sargento Stubby Um Heroi Americano
+http://psrv.io:80/movie/883698111244/blendediptv.me/52487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebelles [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Ds7nxqGBITsW4it1MOJ1sozumg.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Rebelles [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Questao de Honra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCmeHNiTpEPZwnRW9GoSjfZBuOu.jpg" group-title="Filmes | Drama" aspect-ratio="16:9",Questao de Honra
+http://psrv.io:80/movie/883698111244/blendediptv.me/52485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Queen e Slim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksHdHK17wRKMLkpMH4UslMT1V0p.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Queen e Slim
+http://psrv.io:80/movie/883698111244/blendediptv.me/52484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pense Como um Cao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrospL5ei42P7yQDd84euUgPVdE.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Pense Como um Cao
+http://psrv.io:80/movie/883698111244/blendediptv.me/52483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paciente Zero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYgghR2MSMntmC621GxqG9ATCJc.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Paciente Zero
+http://psrv.io:80/movie/883698111244/blendediptv.me/52482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paciente 11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0DPPlgVt8c8tvRyWNdOF8rAKYa.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Paciente 11
+http://psrv.io:80/movie/883698111244/blendediptv.me/52481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Publico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fK81tBV5tBOEySpT5RH3IdyqYE.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",O Publico
+http://psrv.io:80/movie/883698111244/blendediptv.me/52480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Preco da Verdade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pONtsB0V4T10ETgaIgsyOkzqGDW.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",O Preco da Verdade
+http://psrv.io:80/movie/883698111244/blendediptv.me/52479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Invisivel 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGftFA2Orf2AmVNpslsOqifANcA.jpg" group-title="Filmes | 4K" aspect-ratio="16:9",O Homem Invisivel 4K
+http://psrv.io:80/movie/883698111244/blendediptv.me/52478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Invisivel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGftFA2Orf2AmVNpslsOqifANcA.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",O Homem Invisivel
+http://psrv.io:80/movie/883698111244/blendediptv.me/52477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassinato de Nicole Brown Simpson" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKISEcOHPArArVqrEjGUnrjn8Z1.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",O Assassinato de Nicole Brown Simpson
+http://psrv.io:80/movie/883698111244/blendediptv.me/52476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Acerto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWpUrI1buy3Idsnm3KqkDlS31Hp.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",O Acerto
+http://psrv.io:80/movie/883698111244/blendediptv.me/52475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nos Bastidores de Elefante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5MNeo1jsBUFyPo890tWILvKuzS.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Nos Bastidores de Elefante
+http://psrv.io:80/movie/883698111244/blendediptv.me/52474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Boyfriends Meds [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVSOXCBuPXw8yXqbNfwU9ogIp88.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",My Boyfriends Meds [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meus Dias de Compaixao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFZS12Fz8l5GYThYFTvMIoSGH6E.jpg" group-title="Filmes | Romance" aspect-ratio="16:9",Meus Dias de Compaixao
+http://psrv.io:80/movie/883698111244/blendediptv.me/52471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente 00-Gato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbEtDEoQddlQncJ8x8XrnVSPzs.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Agente 00-Gato
+http://psrv.io:80/movie/883698111244/blendediptv.me/52470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mae Obsessiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suPWmUus9t3sArNPmOz9Z2MiJGx.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Mae Obsessiva
+http://psrv.io:80/movie/883698111244/blendediptv.me/52469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lupin III: O Primeiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFH7XGenvhPEETBA2LmLbYQoqml.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Lupin III: O Primeiro
+http://psrv.io:80/movie/883698111244/blendediptv.me/52468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kikoriki - Agencia de Viagens Deja-Vu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC0IbNhWN1QQQkOJQsxXaud6eBh.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Kikoriki - Agencia de Viagens Deja-Vu
+http://psrv.io:80/movie/883698111244/blendediptv.me/52467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Judy: Muito Alem do Arco-Iris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbS0KWxQPMTiQ53WooVgCIgEWnc.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Judy: Muito Alem do Arco-Iris
+http://psrv.io:80/movie/883698111244/blendediptv.me/52466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jesus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZTwhPu54eJBadSUQXfWcvH627e.jpg" group-title="Filmes | Religiosos" aspect-ratio="16:9",Jesus
+http://psrv.io:80/movie/883698111244/blendediptv.me/52465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hors Normes [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xfqg0IUXydiU6IjBtRPxEYqiNG.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Hors Normes [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Highlander, O Guerreiro Imortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq7svK5vv8Ex5BXoTWpyhJzkVsj.jpg" group-title="Filmes | Acao" aspect-ratio="16:9",Highlander, O Guerreiro Imortal
+http://psrv.io:80/movie/883698111244/blendediptv.me/52463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fenomenos Paranormais 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCzBfhuM7wSGrcK1aYLNArX0qn7.jpg" group-title="Filmes | Terror" aspect-ratio="16:9",Fenomenos Paranormais 2
+http://psrv.io:80/movie/883698111244/blendediptv.me/52462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fenomenos Paranormais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YaZFnNbEtB1lG8G0B9rtNfic0n.jpg" group-title="Filmes | Terror" aspect-ratio="16:9",Fenomenos Paranormais
+http://psrv.io:80/movie/883698111244/blendediptv.me/52461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Era So Uma Brincadeira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmUHZgxf8Eol8dM6XlFYRraEL8P.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Era So Uma Brincadeira
+http://psrv.io:80/movie/883698111244/blendediptv.me/52460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elefante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32jFoyxJSZ3cN2SHjqwFDQMdTJ8.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Elefante
+http://psrv.io:80/movie/883698111244/blendediptv.me/52459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Chicano: O Mito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iz3P41zgLjkNwr3zmAnesgioDAs.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",El Chicano: O Mito
+http://psrv.io:80/movie/883698111244/blendediptv.me/52458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disturbio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woEtadesDou5F5hVb6MgQMhk3KE.jpg" group-title="Filmes | Terror" aspect-ratio="16:9",Disturbio
+http://psrv.io:80/movie/883698111244/blendediptv.me/52457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destacamento Blood" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM4YwtgyPNAsiwSQxxgPJBmcrT3.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Destacamento Blood
+http://psrv.io:80/movie/883698111244/blendediptv.me/52456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depeche Mode Spirits In The Forest [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idexLoYTFrxL4Kdpmj3aFIujA7q.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Depeche Mode Spirits In The Forest [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Debt Collector 2 [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",The Debt Collector 2 [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damas De Preto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOOffEUdqjslx9u5WyCEL2WqsER.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Damas De Preto
+http://psrv.io:80/movie/883698111244/blendediptv.me/52453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corporate Animals" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFiJwUXiKLcsblGKvUPHyGjLEn7.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Corporate Animals
+http://psrv.io:80/movie/883698111244/blendediptv.me/52452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Compartilhar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gD2WXQ3tPMYKvMvTSYN6SyNtANM.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Compartilhar
+http://psrv.io:80/movie/883698111244/blendediptv.me/52451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Stan: Arrebentando na Prisao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GLeoZwdksfSen4zpAvhyiSVIYb.jpg" group-title="Filmes | Comedia" aspect-ratio="16:9",Big Stan: Arrebentando na Prisao
+http://psrv.io:80/movie/883698111244/blendediptv.me/52450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barrabas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8cu4iXoOsoWP6Mg3woyhctxlst.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Barrabas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vastidao da Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",A Vastidao da Noite
+http://psrv.io:80/movie/883698111244/blendediptv.me/52448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Ondas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdVnQJz9eJSWtVrCGc0q4F1nGF6.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",As Ondas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avb3THg1FTxBc79h2QECsuwjujY.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",Artemis Fowl [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Revolucao em Paris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgJAKz7eSNGNenjrI9Wbmi7MZeR.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",A Revolucao em Paris
+http://psrv.io:80/movie/883698111244/blendediptv.me/52445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Despedida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MHvb18vNCRF2HzEjlhDqDHD4T1.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",A Despedida
+http://psrv.io:80/movie/883698111244/blendediptv.me/52444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aberracoes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdeW3VjDtXuVXQEQMO4n9fbx8Jf.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Aberracoes
+http://psrv.io:80/movie/883698111244/blendediptv.me/52443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abducao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBlOPZnyOzIboyhjs51h2QGpWr8.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",Abducao
+http://psrv.io:80/movie/883698111244/blendediptv.me/52442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ascensao da Rainha Guerreira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms8K4joARMKKPoGLqp1FKgPsMmq.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",A Ascensao da Rainha Guerreira
+http://psrv.io:80/movie/883698111244/blendediptv.me/52441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="20.000 Leguas Submarinas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1nVY6rYg8mINoWx82qncIQdbOr.jpg" group-title="Filmes | Fantasia e Ficcao" aspect-ratio="16:9",20.000 Leguas Submarinas
+http://psrv.io:80/movie/883698111244/blendediptv.me/52440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="365 dni [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",365 dni [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Percent Wolf [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbu0jVdH4eLh7Hx4xdQwUVGzYju.jpg" group-title="Filmes | Legendados" aspect-ratio="16:9",100 Percent Wolf [L]
+http://psrv.io:80/movie/883698111244/blendediptv.me/52438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Coisas que Deveriamos Fazer Antes de nos Separar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oWnWja5Dw8BmAaOzVvGZHFg51t.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",10 Coisas que Deveriamos Fazer Antes de nos Separar
+http://psrv.io:80/movie/883698111244/blendediptv.me/52437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Minutos de Fama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvuwTNxTcDUHwjSmCjCuZE7cUoP.jpg" group-title="Filmes | Lancamentos" aspect-ratio="16:9",2 Minutos de Fama
+http://psrv.io:80/movie/883698111244/blendediptv.me/52436.mp4
 
