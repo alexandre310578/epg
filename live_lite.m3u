@@ -279,13 +279,13 @@ http://psrv.io:80/883698111244/blendediptv.me/52433
 http://psrv.io:80/883698111244/blendediptv.me/52434
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 5
 http://psrv.io:80/883698111244/blendediptv.me/52435
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FHD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E FHD
+#EXTINF:-1 tvg-id="AEE" tvg-name="A&E FHD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E FHD
 http://psrv.io:80/883698111244/blendediptv.me/18858
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E FHD [H265]
+#EXTINF:-1 tvg-id="AEE" tvg-name="A&E FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E FHD [H265]
 http://psrv.io:80/883698111244/blendediptv.me/22213
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E HD
+#EXTINF:-1 tvg-id="AEE" tvg-name="A&E HD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E HD
 http://psrv.io:80/883698111244/blendediptv.me/18738
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E SD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E SD
+#EXTINF:-1 tvg-id="AEE" tvg-name="A&E SD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E SD
 http://psrv.io:80/883698111244/blendediptv.me/18739
 #EXTINF:-1 tvg-id="BIS" tvg-name="Bis FHD" tvg-logo="http://static.psrv.io/logos/canais/bis.png" group-title="Variedades" aspect-ratio="16:9",Bis FHD
 http://psrv.io:80/883698111244/blendediptv.me/18785
