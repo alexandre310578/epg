@@ -65,11 +65,11 @@ http://psrv.io:80/883698111244/blendediptv.me/22194
 http://psrv.io:80/883698111244/blendediptv.me/18653
 #EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://static.psrv.io/logos/canais/fx.png" group-title="Filmes e Series" aspect-ratio="16:9",FX SD
 http://psrv.io:80/883698111244/blendediptv.me/22233
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="Max FHD" tvg-logo="http://static.psrv.io/logos/canais/max.png" group-title="Filmes e Series" aspect-ratio="16:9",Max FHD
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="Max FHD" tvg-logo="http://static.psrv.io/logos/canais/max.png" group-title="Filmes e Series" aspect-ratio="16:9",Max FHD
 http://psrv.io:80/883698111244/blendediptv.me/18819
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="Max FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/max.png" group-title="Filmes e Series" aspect-ratio="16:9",Max FHD [H265]
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="Max FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/max.png" group-title="Filmes e Series" aspect-ratio="16:9",Max FHD [H265]
 http://psrv.io:80/883698111244/blendediptv.me/22185
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="Max SD" tvg-logo="http://static.psrv.io/logos/canais/max.png" group-title="Filmes e Series" aspect-ratio="16:9",Max SD
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="Max SD" tvg-logo="http://static.psrv.io/logos/canais/max.png" group-title="Filmes e Series" aspect-ratio="16:9",Max SD
 http://psrv.io:80/883698111244/blendediptv.me/18624
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="Max Prime HD" tvg-logo="http://static.psrv.io/logos/canais/maxprime.png" group-title="Filmes e Series" aspect-ratio="16:9",Max Prime HD
 http://psrv.io:80/883698111244/blendediptv.me/18621
