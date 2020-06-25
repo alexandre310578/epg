@@ -1277,8 +1277,6 @@ http://psrv.io:80/8836984587848/blendediptv.me/18585
 http://psrv.io:80/8836984587848/blendediptv.me/28064
 #EXTINF:-1 tvg-id="PREMIERE 9" tvg-name="Premiere 9 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 9 SD
 http://psrv.io:80/8836984587848/blendediptv.me/28063
-#EXTINF:-1 tvg-id="" tvg-name="FLAtv" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Esportes" aspect-ratio="16:9",FLAtv
-http://psrv.io:80/8836984587848/blendediptv.me/49255
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BandNews FHD" tvg-logo="http://static.psrv.io/logos/canais/bandnews.png" group-title="Noticias" aspect-ratio="16:9",BandNews FHD
 http://psrv.io:80/8836984587848/blendediptv.me/18853
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BandNews FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/bandnews.png" group-title="Noticias" aspect-ratio="16:9",BandNews FHD [H265]
@@ -2555,15 +2553,17 @@ http://psrv.io:80/8836984587848/blendediptv.me/50744
 http://psrv.io:80/8836984587848/blendediptv.me/43033
 #EXTINF:-1 tvg-id="" tvg-name="[US] Str, A" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[US] Str, A
 http://psrv.io:80/8836984587848/blendediptv.me/43034
-#EXTINF:-1 tvg-id="" tvg-name="#FIQUE EM CASA #COMIGO [CANAL 01]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#FIQUE EM CASA #COMIGO [CANAL 01]
+#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 01
 http://psrv.io:80/8836984587848/blendediptv.me/43888
-#EXTINF:-1 tvg-id="" tvg-name="#FIQUE EM CASA #COMIGO [CANAL 02]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#FIQUE EM CASA #COMIGO [CANAL 02]
+#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 02" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 02
 http://psrv.io:80/8836984587848/blendediptv.me/49254
-#EXTINF:-1 tvg-id="" tvg-name="#FIQUE EM CASA #COMIGO [CANAL 03]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#FIQUE EM CASA #COMIGO [CANAL 03]
+#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 06" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 06
+http://psrv.io:80/8836984587848/blendediptv.me/49255
+#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 04" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 04
 http://psrv.io:80/8836984587848/blendediptv.me/49256
-#EXTINF:-1 tvg-id="" tvg-name="#FIQUE EM CASA #COMIGO [CANAL 04]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#FIQUE EM CASA #COMIGO [CANAL 04]
+#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 03" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 03
 http://psrv.io:80/8836984587848/blendediptv.me/49257
-#EXTINF:-1 tvg-id="" tvg-name="#FIQUE EM CASA #COMIGO [CANAL 05]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#FIQUE EM CASA #COMIGO [CANAL 05]
+#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 05" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 05
 http://psrv.io:80/8836984587848/blendediptv.me/49258
 #EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Campeonato Catarinense 01
 http://psrv.io:80/8836984587848/blendediptv.me/43734
