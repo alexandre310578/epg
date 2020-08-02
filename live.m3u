@@ -1065,8 +1065,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18570.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/49619.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49620.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT SP SD
-http://psrv.io:80/live/883698111244/blendediptv.me/49621.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT RJ HD
 http://psrv.io:80/live/883698111244/blendediptv.me/22458.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos - SBT" aspect-ratio="16:9",SBT RJ HD
@@ -1463,6 +1461,78 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48692.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/48693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Victory Television Network" tvg-logo="" group-title="Religiosos" aspect-ratio="16:9",[US] Victory Television Network
 http://psrv.io:80/live/883698111244/blendediptv.me/48695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Sur Flamenco" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Canal Sur Flamenco
+http://psrv.io:80/live/883698111244/blendediptv.me/28166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] Adult Swim" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Adult Swim
+http://psrv.io:80/live/883698111244/blendediptv.me/45184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] WUSA9 Breaking News" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] WUSA9 Breaking News
+http://psrv.io:80/live/883698111244/blendediptv.me/45195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] FOX WXXV25" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] FOX WXXV25
+http://psrv.io:80/live/883698111244/blendediptv.me/45198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] CBSN" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] CBSN
+http://psrv.io:80/live/883698111244/blendediptv.me/45199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] Newsmax TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Newsmax TV
+http://psrv.io:80/live/883698111244/blendediptv.me/45217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] Pluto TV Headlines" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Pluto TV Headlines
+http://psrv.io:80/live/883698111244/blendediptv.me/45228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] WeatherNation TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] WeatherNation TV
+http://psrv.io:80/live/883698111244/blendediptv.me/45246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] RT America" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] RT America
+http://psrv.io:80/live/883698111244/blendediptv.me/45257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] Pluto TV Cars" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Pluto TV Cars
+http://psrv.io:80/live/883698111244/blendediptv.me/45266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Telemadrid" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Telemadrid
+http://psrv.io:80/live/883698111244/blendediptv.me/45275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] mtmad 24h" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] mtmad 24h
+http://psrv.io:80/live/883698111244/blendediptv.me/45276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Canal Sur Cocina" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Canal Sur Cocina
+http://psrv.io:80/live/883698111244/blendediptv.me/45278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] TV Hellin" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] TV Hellin
+http://psrv.io:80/live/883698111244/blendediptv.me/45284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Esport Club" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Esport Club
+http://psrv.io:80/live/883698111244/blendediptv.me/45297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Onda Madrid" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Onda Madrid
+http://psrv.io:80/live/883698111244/blendediptv.me/45298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Tv3 Cat 24" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Tv3 Cat 24
+http://psrv.io:80/live/883698111244/blendediptv.me/45304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] RTVC" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] RTVC
+http://psrv.io:80/live/883698111244/blendediptv.me/45306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Trece" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Trece
+http://psrv.io:80/live/883698111244/blendediptv.me/45318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Mijas 3.40 TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Mijas 3.40 TV
+http://psrv.io:80/live/883698111244/blendediptv.me/45327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] Speech TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Speech TV
+http://psrv.io:80/live/883698111244/blendediptv.me/47373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[FR] via Vosges" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] via Vosges
+http://psrv.io:80/live/883698111244/blendediptv.me/48195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[FR] La Chaine Normande TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] La Chaine Normande TV
+http://psrv.io:80/live/883698111244/blendediptv.me/48200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[FR] TV78" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV78
+http://psrv.io:80/live/883698111244/blendediptv.me/48207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[FR] France 24 English" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] France 24 English
+http://psrv.io:80/live/883698111244/blendediptv.me/48209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Prima Tivvu" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Prima Tivvu
+http://psrv.io:80/live/883698111244/blendediptv.me/48320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] FM Italia TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] FM Italia TV
+http://psrv.io:80/live/883698111244/blendediptv.me/48366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Rete 4" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Rete 4
+http://psrv.io:80/live/883698111244/blendediptv.me/48372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Calabria" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Calabria
+http://psrv.io:80/live/883698111244/blendediptv.me/48376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Iris" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Iris
+http://psrv.io:80/live/883698111244/blendediptv.me/48380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Vera TV Marche" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Vera TV Marche
+http://psrv.io:80/live/883698111244/blendediptv.me/48384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] RTC Telecalabria" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] RTC Telecalabria
+http://psrv.io:80/live/883698111244/blendediptv.me/48387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] Fox Sports" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Fox Sports
+http://psrv.io:80/live/883698111244/blendediptv.me/48398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[IT] Top Crime" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Top Crime
+http://psrv.io:80/live/883698111244/blendediptv.me/48401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] WLTV First News" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] WLTV First News
+http://psrv.io:80/live/883698111244/blendediptv.me/49231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] Red Bull TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Red Bull TV
+http://psrv.io:80/live/883698111244/blendediptv.me/49232.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR Craiova" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",TVR Craiova
 http://psrv.io:80/live/883698111244/blendediptv.me/28048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR IASI" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",TVR IASI
@@ -1495,18 +1565,12 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48244.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45271.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[CN] CGTN" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[CN] CGTN
 http://psrv.io:80/live/883698111244/blendediptv.me/45270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES]  Divinity [FILM&SERIE]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES]  Divinity [FILM&SERIE]
-http://psrv.io:80/live/883698111244/blendediptv.me/45297.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] 7 Murcia" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] 7 Murcia
 http://psrv.io:80/live/883698111244/blendediptv.me/45312.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Alcarria TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Alcarria TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Antena 3" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Antena 3
-http://psrv.io:80/live/883698111244/blendediptv.me/45275.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Aragon TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Aragon TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Be Mad" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Be Mad
-http://psrv.io:80/live/883698111244/blendediptv.me/45304.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Cadena Elite" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Cadena Elite
 http://psrv.io:80/live/883698111244/blendediptv.me/45294.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Canal 25 Barbastro" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Canal 25 Barbastro
@@ -1525,24 +1589,16 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45329.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45341.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Condavision" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Condavision
 http://psrv.io:80/live/883698111244/blendediptv.me/45315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Cuatro TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Cuatro TV
-http://psrv.io:80/live/883698111244/blendediptv.me/45278.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Distrito TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Distrito TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Divinity" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Divinity
-http://psrv.io:80/live/883698111244/blendediptv.me/45327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Ecija Comarca TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Ecija Comarca TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45277.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] EITB" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] EITB
 http://psrv.io:80/live/883698111244/blendediptv.me/45316.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Elche 7TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Elche 7TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Energy" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Energy
-http://psrv.io:80/live/883698111244/blendediptv.me/45306.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] ETB 2" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] ETB 2
 http://psrv.io:80/live/883698111244/blendediptv.me/45307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] FDF" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] FDF
-http://psrv.io:80/live/883698111244/blendediptv.me/45298.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Galicia TV America" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Galicia TV America
 http://psrv.io:80/live/883698111244/blendediptv.me/45299.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Hamaika Telebista" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Hamaika Telebista
@@ -1551,12 +1607,8 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45334.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45288.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Interalmeria TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Interalmeria TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] La Sexta" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] La Sexta
-http://psrv.io:80/live/883698111244/blendediptv.me/45276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] La Voz 24h" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] La Voz 24h
 http://psrv.io:80/live/883698111244/blendediptv.me/45353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Popular TV Cantabria" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Popular TV Cantabria
-http://psrv.io:80/live/883698111244/blendediptv.me/45318.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Popular TV Melilla" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Popular TV Melilla
 http://psrv.io:80/live/883698111244/blendediptv.me/45308.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Radio Onda Madrid" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Radio Onda Madrid
@@ -1575,8 +1627,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45290.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45310.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Taroteame TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Taroteame TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[ES] Telecinco" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Telecinco
-http://psrv.io:80/live/883698111244/blendediptv.me/45284.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] Teleonuba" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] Teleonuba
 http://psrv.io:80/live/883698111244/blendediptv.me/45319.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[ES] TeleSafor" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[ES] TeleSafor
@@ -1623,16 +1673,12 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48229.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/48201.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] DJing Classics" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] DJing Classics
 http://psrv.io:80/live/883698111244/blendediptv.me/45237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[FR] Fashion TV L'Original" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] Fashion TV L'Original
-http://psrv.io:80/live/883698111244/blendediptv.me/48209.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] Fashion TV Midnite Secrets" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] Fashion TV Midnite Secrets
 http://psrv.io:80/live/883698111244/blendediptv.me/48196.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] Fashion TV Paris" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] Fashion TV Paris
 http://psrv.io:80/live/883698111244/blendediptv.me/48204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] Fashion TV PG13" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] Fashion TV PG13
 http://psrv.io:80/live/883698111244/blendediptv.me/48211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[FR] Fashion TV PG16" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] Fashion TV PG16
-http://psrv.io:80/live/883698111244/blendediptv.me/48195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] France 24" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] France 24
 http://psrv.io:80/live/883698111244/blendediptv.me/48193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] France 24 Arabic" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] France 24 Arabic
@@ -1675,10 +1721,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48217.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/48224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] TV3V" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV3V
 http://psrv.io:80/live/883698111244/blendediptv.me/48218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[FR] TV5 Monde Maghreb-Orient (Arabic)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5 Monde Maghreb-Orient (Arabic)
-http://psrv.io:80/live/883698111244/blendediptv.me/48207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[FR] TV5 Style" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5 Style
-http://psrv.io:80/live/883698111244/blendediptv.me/48200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] TV5 Monde Pacifique" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV5 Monde Pacifique
 http://psrv.io:80/live/883698111244/blendediptv.me/48198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[FR] TV7 Colmar" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[FR] TV7 Colmar
@@ -1741,8 +1783,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48312.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/48394.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Italia 2 TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Italia 2 TV
 http://psrv.io:80/live/883698111244/blendediptv.me/48329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Julie Italia" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Julie Italia
-http://psrv.io:80/live/883698111244/blendediptv.me/48376.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] La Tr3" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] La Tr3
 http://psrv.io:80/live/883698111244/blendediptv.me/48395.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] LaC TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] LaC TV
@@ -1773,12 +1813,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48360.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/48350.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Radio Lombardia TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Radio Lombardia TV
 http://psrv.io:80/live/883698111244/blendediptv.me/48338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Radio Number One TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Radio Number One TV
-http://psrv.io:80/live/883698111244/blendediptv.me/48380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Radio Piter Pan TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Radio Piter Pan TV
-http://psrv.io:80/live/883698111244/blendediptv.me/48372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Radio Siena TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Radio Siena TV
-http://psrv.io:80/live/883698111244/blendediptv.me/48366.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Radio Zeta TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Radio Zeta TV
 http://psrv.io:80/live/883698111244/blendediptv.me/48381.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Radionorba TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Radionorba TV
@@ -1799,8 +1833,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48406.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45269.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Rai Premium" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Rai Premium
 http://psrv.io:80/live/883698111244/blendediptv.me/48315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Rai Sport" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Rai Sport
-http://psrv.io:80/live/883698111244/blendediptv.me/48320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Rai YoYo" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Rai YoYo
 http://psrv.io:80/live/883698111244/blendediptv.me/48319.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] RDS Social TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] RDS Social TV
@@ -1811,8 +1843,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48354.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/48383.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] RMK TV Sciacca" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] RMK TV Sciacca
 http://psrv.io:80/live/883698111244/blendediptv.me/48361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] RMM TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] RMM TV
-http://psrv.io:80/live/883698111244/blendediptv.me/48387.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] RTC Quarta Rete" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] RTC Quarta Rete
 http://psrv.io:80/live/883698111244/blendediptv.me/48388.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] RTP" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] RTP
@@ -1825,10 +1855,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/48351.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/48352.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Sardegna Uno" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Sardegna Uno
 http://psrv.io:80/live/883698111244/blendediptv.me/48322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Senato della Repubblica" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Senato della Repubblica
-http://psrv.io:80/live/883698111244/blendediptv.me/48401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Skyline TV Radio & Soul" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Skyline TV Radio & Soul
-http://psrv.io:80/live/883698111244/blendediptv.me/48384.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Sophia TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Sophia TV
 http://psrv.io:80/live/883698111244/blendediptv.me/48389.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[IT] Super J TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[IT] Super J TV
@@ -1907,8 +1933,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45214.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45247.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] 7News Boston (WHDH)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] 7News Boston (WHDH)
 http://psrv.io:80/live/883698111244/blendediptv.me/45203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] ABC 10 Miami FL (WPLG)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] ABC 10 Miami FL (WPLG)
-http://psrv.io:80/live/883698111244/blendediptv.me/45217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] ABC 2 Baton Rouge LA (WBRZ-HD)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] ABC 2 Baton Rouge LA (WBRZ-HD)
 http://psrv.io:80/live/883698111244/blendediptv.me/45204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] ABC 9 Chattanooga TN (WTVC)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] ABC 9 Chattanooga TN (WTVC)
@@ -1929,8 +1953,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45218.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Akaku 54 (Hawaii)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Akaku 54 (Hawaii)
 http://psrv.io:80/live/883698111244/blendediptv.me/45241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] Akaku 55 (Hawaii)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Akaku 55 (Hawaii)
-http://psrv.io:80/live/883698111244/blendediptv.me/45266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] AKC TV" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] AKC TV
 http://psrv.io:80/live/883698111244/blendediptv.me/45252.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] American Classic Network" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] American Classic Network
@@ -1989,8 +2011,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45225.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] CBS News New York" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] CBS News New York
 http://psrv.io:80/live/883698111244/blendediptv.me/45210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] CBS Sports HQ" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] CBS Sports HQ
-http://psrv.io:80/live/883698111244/blendediptv.me/48398.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] CBSN" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] CBSN
 http://psrv.io:80/live/883698111244/blendediptv.me/45364.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] CBSN " tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] CBSN 
@@ -2009,8 +2029,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45211.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45209.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] C-Span 2" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] C-Span 2
 http://psrv.io:80/live/883698111244/blendediptv.me/49286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] DocuBox HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] DocuBox HD
-http://psrv.io:80/live/883698111244/blendediptv.me/45198.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Documentaries 4U" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Documentaries 4U
 http://psrv.io:80/live/883698111244/blendediptv.me/45216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Edge Sports" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Edge Sports
@@ -2025,14 +2043,10 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45213.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/49227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] FOX 40 Sacramento CA (KTXL)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] FOX 40 Sacramento CA (KTXL)
 http://psrv.io:80/live/883698111244/blendediptv.me/45202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] FOX 7 Miami FL (WSVN)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] FOX 7 Miami FL (WSVN)
-http://psrv.io:80/live/883698111244/blendediptv.me/45199.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] FOX Q13 Seattle WA (KCPQ)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] FOX Q13 Seattle WA (KCPQ)
 http://psrv.io:80/live/883698111244/blendediptv.me/45235.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] FOX Sport 1 HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] FOX Sport 1 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/48349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] History Channel 2" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] History Channel 2
-http://psrv.io:80/live/883698111244/blendediptv.me/45184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] It’s At The Movies" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] It’s At The Movies
 http://psrv.io:80/live/883698111244/blendediptv.me/45265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Models Inc" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Models Inc
@@ -2041,12 +2055,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45182.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45181.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] MTV Norge" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] MTV Norge
 http://psrv.io:80/live/883698111244/blendediptv.me/45206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] Nat Geo Wild HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Nat Geo Wild HD
-http://psrv.io:80/live/883698111244/blendediptv.me/49231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] National Geographic" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] National Geographic
-http://psrv.io:80/live/883698111244/blendediptv.me/47373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] National Geograpic" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] National Geograpic
-http://psrv.io:80/live/883698111244/blendediptv.me/49232.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] NBC San Jose CA (KNTV) (24H)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] NBC San Jose CA (KNTV) (24H)
 http://psrv.io:80/live/883698111244/blendediptv.me/45256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Old Cine Z" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Old Cine Z
@@ -2055,26 +2063,18 @@ http://psrv.io:80/live/883698111244/blendediptv.me/45280.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Olympic Channel HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Olympic Channel HD
 http://psrv.io:80/live/883698111244/blendediptv.me/45212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] PBS Miami FL (WPBT-HD)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] PBS Miami FL (WPBT-HD)
-http://psrv.io:80/live/883698111244/blendediptv.me/45246.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Sportskool" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Sportskool
 http://psrv.io:80/live/883698111244/blendediptv.me/45227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Stadium" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Stadium
 http://psrv.io:80/live/883698111244/blendediptv.me/45193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] The CW Charlotte NC (WCCB-DT)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] The CW Charlotte NC (WCCB-DT)
 http://psrv.io:80/live/883698111244/blendediptv.me/45197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] The CW Miami FL (WSFL-TV)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] The CW Miami FL (WSFL-TV)
-http://psrv.io:80/live/883698111244/blendediptv.me/45228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] The Film Detective" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] The Film Detective
-http://psrv.io:80/live/883698111244/blendediptv.me/45195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] The Weather Channel" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] The Weather Channel
 http://psrv.io:80/live/883698111244/blendediptv.me/45196.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Venus TV (US Eastern)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Venus TV (US Eastern)
 http://psrv.io:80/live/883698111244/blendediptv.me/45221.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Venus TV (US Pacific)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] Venus TV (US Pacific)
 http://psrv.io:80/live/883698111244/blendediptv.me/45236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[US] WGN-TV (Chicago)" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] WGN-TV (Chicago)
-http://psrv.io:80/live/883698111244/blendediptv.me/45257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] WWE" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] WWE
 http://psrv.io:80/live/883698111244/blendediptv.me/50810.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] WXYZ ABC 7 Detroit" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",[US] WXYZ ABC 7 Detroit
@@ -2085,8 +2085,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/43889.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/45169.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg Television" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Bloomberg Television
 http://psrv.io:80/live/883698111244/blendediptv.me/28159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boing Kids [ESP]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",Boing Kids [ESP]
-http://psrv.io:80/live/883698111244/blendediptv.me/28166.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA HD" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CANAL 26 ARGENTINA HD
 http://psrv.io:80/live/883698111244/blendediptv.me/26427.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN [ARABIC-NEWs]" tvg-logo="" group-title="Internacionais" aspect-ratio="16:9",CGTN [ARABIC-NEWs]
@@ -2553,74 +2551,70 @@ http://psrv.io:80/live/883698111244/blendediptv.me/50744.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/43033.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] Str, A" tvg-logo="" group-title="Cameras ao Vivo" aspect-ratio="16:9",[US] Str, A
 http://psrv.io:80/live/883698111244/blendediptv.me/43034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="" group-title="Esportes" aspect-ratio="16:9",FLA TV
+http://psrv.io:80/live/883698111244/blendediptv.me/49255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa Libertadores HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa Libertadores HD
+http://psrv.io:80/live/883698111244/blendediptv.me/28386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Guia De Jogos" tvg-logo="http://z4.vc/kgB" group-title="Jogos & Eventos" aspect-ratio="16:9",Guia De Jogos
+http://psrv.io:80/live/883698111244/blendediptv.me/28396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Esporte" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Globo Esporte
+http://psrv.io:80/live/883698111244/blendediptv.me/33737.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 01
 http://psrv.io:80/live/883698111244/blendediptv.me/43888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 02" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 02
 http://psrv.io:80/live/883698111244/blendediptv.me/49254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 06" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 06
-http://psrv.io:80/live/883698111244/blendediptv.me/49255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 04" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 04
-http://psrv.io:80/live/883698111244/blendediptv.me/49256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 03" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 03
 http://psrv.io:80/live/883698111244/blendediptv.me/49257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 05" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 05
+#EXTINF:-1 tvg-id="" tvg-name="#EVENTOS 04" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",#EVENTOS 04
+http://psrv.io:80/live/883698111244/blendediptv.me/49256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Italia" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Rai Italia
 http://psrv.io:80/live/883698111244/blendediptv.me/49258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Campeonato Catarinense 01
-http://psrv.io:80/live/883698111244/blendediptv.me/43734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 01 HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Campeonato Catarinense 01 HD
-http://psrv.io:80/live/883698111244/blendediptv.me/43793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 02" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Campeonato Catarinense 02
-http://psrv.io:80/live/883698111244/blendediptv.me/43735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 02 HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Campeonato Catarinense 02 HD
-http://psrv.io:80/live/883698111244/blendediptv.me/43795.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 03 HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Campeonato Catarinense 03 HD
-http://psrv.io:80/live/883698111244/blendediptv.me/43802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 04 HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Campeonato Catarinense 04 HD
-http://psrv.io:80/live/883698111244/blendediptv.me/43803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Copa Libertadores" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa Libertadores
-http://psrv.io:80/live/883698111244/blendediptv.me/43794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Copa Libertadores HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa Libertadores HD
-http://psrv.io:80/live/883698111244/blendediptv.me/28386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 01 [PRIME]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa Nordeste 01 [PRIME]
-http://psrv.io:80/live/883698111244/blendediptv.me/43797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 1 HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa Nordeste 1 HD
-http://psrv.io:80/live/883698111244/blendediptv.me/28377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 2 HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa Nordeste 2 HD
-http://psrv.io:80/live/883698111244/blendediptv.me/28378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Copa Nordeste 3 HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa Nordeste 3 HD
-http://psrv.io:80/live/883698111244/blendediptv.me/28379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN  CHANNEL 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN  CHANNEL 1
-http://psrv.io:80/live/883698111244/blendediptv.me/26195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN CHANNEL 2
-http://psrv.io:80/live/883698111244/blendediptv.me/26197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN CHANNEL 3
-http://psrv.io:80/live/883698111244/blendediptv.me/26196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN CHANNEL 4
-http://psrv.io:80/live/883698111244/blendediptv.me/28387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN CHANNEL 5
-http://psrv.io:80/live/883698111244/blendediptv.me/28388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN CHANNEL 6
-http://psrv.io:80/live/883698111244/blendediptv.me/28389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN CHANNEL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/128px-DAZN_Logo.png" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN CHANNEL 7
-http://psrv.io:80/live/883698111244/blendediptv.me/45095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 01 [Champions League]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Ei Plus 01 [Champions League]
-http://psrv.io:80/live/883698111244/blendediptv.me/28380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 02 [Champions League]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Ei Plus 02 [Champions League]
-http://psrv.io:80/live/883698111244/blendediptv.me/28381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 03 [Champions League]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Ei Plus 03 [Champions League]
-http://psrv.io:80/live/883698111244/blendediptv.me/28382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 04 [Champions League]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Ei Plus 04 [Champions League]
-http://psrv.io:80/live/883698111244/blendediptv.me/28383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 05 [Champions League]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Ei Plus 05 [Champions League]
-http://psrv.io:80/live/883698111244/blendediptv.me/28384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 06 [Champions League]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Ei Plus 06 [Champions League]
-http://psrv.io:80/live/883698111244/blendediptv.me/28385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Esporte" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Globo Esporte
-http://psrv.io:80/live/883698111244/blendediptv.me/33737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Esporte HD" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Globo Esporte HD
-http://psrv.io:80/live/883698111244/blendediptv.me/28376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Guia De Jogos" tvg-logo="https://img2.gratispng.com/20180625/ihy/kisspng-football-computer-icons-sport-clip-art-balon-de-futbol-5b312be00c4692.5055697815299491520503.jpg" group-title="Jogos & Eventos" aspect-ratio="16:9",Guia De Jogos
-http://psrv.io:80/live/883698111244/blendediptv.me/28396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",COPA DO NORDESTE 01
+http://psrv.io:80/live/883698111244/blendediptv.me/54595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 02" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",COPA DO NORDESTE 02
+http://psrv.io:80/live/883698111244/blendediptv.me/54600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 03" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",COPA DO NORDESTE 03
+http://psrv.io:80/live/883698111244/blendediptv.me/54601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 04" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",COPA DO NORDESTE 04
+http://psrv.io:80/live/883698111244/blendediptv.me/54602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 01[ALTER]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa do Nordeste 01[ALTER]
+http://psrv.io:80/live/883698111244/blendediptv.me/54580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 02[ALTER]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa do Nordeste 02[ALTER]
+http://psrv.io:80/live/883698111244/blendediptv.me/54581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 03[ALTER]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa do Nordeste 03[ALTER]
+http://psrv.io:80/live/883698111244/blendediptv.me/54582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 04[ALTER]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",Copa do Nordeste 04[ALTER]
+http://psrv.io:80/live/883698111244/blendediptv.me/54583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01[ALTER]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN 01[ALTER]
+http://psrv.io:80/live/883698111244/blendediptv.me/54584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02[ALTER]" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN 02[ALTER]
+http://psrv.io:80/live/883698111244/blendediptv.me/54585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN 01
+http://psrv.io:80/live/883698111244/blendediptv.me/54586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN 02
+http://psrv.io:80/live/883698111244/blendediptv.me/54587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN 03
+http://psrv.io:80/live/883698111244/blendediptv.me/54588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN 04
+http://psrv.io:80/live/883698111244/blendediptv.me/54589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 05" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",DAZN 05
+http://psrv.io:80/live/883698111244/blendediptv.me/54590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",EiMax Jogos01
+http://psrv.io:80/live/883698111244/blendediptv.me/54591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos02" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",EiMax Jogos02
+http://psrv.io:80/live/883698111244/blendediptv.me/54592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos03" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",EiMax Jogos03
+http://psrv.io:80/live/883698111244/blendediptv.me/54593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EiMax Jogos04" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",EiMax Jogos04
+http://psrv.io:80/live/883698111244/blendediptv.me/54594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 01" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",CAMPEONATO CATARINENSE 01
+http://psrv.io:80/live/883698111244/blendediptv.me/54596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 02" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",CAMPEONATO CATARINENSE 02
+http://psrv.io:80/live/883698111244/blendediptv.me/54597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 03" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",CAMPEONATO CATARINENSE 03
+http://psrv.io:80/live/883698111244/blendediptv.me/54598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 04" tvg-logo="" group-title="Jogos & Eventos" aspect-ratio="16:9",CAMPEONATO CATARINENSE 04
+http://psrv.io:80/live/883698111244/blendediptv.me/54599.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[MG] Alvorada FM - 94.9 FM" tvg-logo="http://static.psrv.io/logos/radios/alvoradafm-949.png" group-title="Radios" aspect-ratio="16:9",[MG] Alvorada FM - 94.9 FM
 http://psrv.io:80/live/883698111244/blendediptv.me/549.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[MG] Autentica Favela FM - 106.7 FM" tvg-logo="http://static.psrv.io/logos/radios/autenticafavela-1067.png" group-title="Radios" aspect-ratio="16:9",[MG] Autentica Favela FM - 106.7 FM

@@ -737,8 +737,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18570.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/49619.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49620.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT SP SD
-http://psrv.io:80/live/883698111244/blendediptv.me/49621.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT RJ HD
 http://psrv.io:80/live/883698111244/blendediptv.me/22458.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT RJ HD
@@ -983,4 +981,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/28076.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/28075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Aperiper HD" tvg-logo="http://z4.vc/X0C" group-title="Religiosos" aspect-ratio="16:9",Tv Aperiper HD
 http://psrv.io:80/live/883698111244/blendediptv.me/22473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="" group-title="Esportes" aspect-ratio="16:9",FLA TV
+http://psrv.io:80/live/883698111244/blendediptv.me/49255.m3u8
 

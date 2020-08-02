@@ -209,8 +209,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18573.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18579.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18570.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP SD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT SP SD
-http://psrv.io:80/live/883698111244/blendediptv.me/49621.m3u8
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura SD" tvg-logo="http://static.psrv.io/logos/canais/futura.png" group-title="Abertos" aspect-ratio="16:9",Futura SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18656.m3u8
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="Rede Brasil SD" tvg-logo="http://static.psrv.io/logos/canais/redebrasil.png" group-title="Abertos" aspect-ratio="16:9",Rede Brasil SD
@@ -289,6 +287,8 @@ http://psrv.io:80/live/883698111244/blendediptv.me/28403.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18530.m3u8
 #EXTINF:-1 tvg-id="TV NOVO TEMPO" tvg-name="TV Novo Tempo SD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tv-novo-tempo-png-6.png" group-title="Religiosos" aspect-ratio="16:9",TV Novo Tempo SD
 http://psrv.io:80/live/883698111244/blendediptv.me/28075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="" group-title="Esportes" aspect-ratio="16:9",FLA TV
+http://psrv.io:80/live/883698111244/blendediptv.me/49255.m3u8
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PlayBoy SD" tvg-logo="http://static.psrv.io/logos/canais/playboy.png" group-title="Adultos" aspect-ratio="16:9",PlayBoy SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18488.m3u8
 #EXTINF:-1 tvg-id="SEXTREME" tvg-name="Sextreme SD" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="Adultos" aspect-ratio="16:9",Sextreme SD
