@@ -133,8 +133,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18539.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18523.m3u8
 #EXTINF:-1 tvg-id="VH2" tvg-name="VH1 SD" tvg-logo="http://static.psrv.io/logos/canais/vh1.png" group-title="Variedades" aspect-ratio="16:9",VH1 SD
 http://psrv.io:80/live/883698111244/blendediptv.me/22252.m3u8
-#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-name="VH1 MegaHits SD" tvg-logo="http://static.psrv.io/logos/canais/vh1.png" group-title="Variedades" aspect-ratio="16:9",VH1 MegaHits SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18517.m3u8
 #EXTINF:-1 tvg-id="VIVA" tvg-name="Viva SD" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18516.m3u8
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="Woohoo SD" tvg-logo="http://static.psrv.io/logos/canais/woohoo.png" group-title="Variedades" aspect-ratio="16:9",Woohoo SD
@@ -193,8 +191,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/49374.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18525.m3u8
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZooMoo SD" tvg-logo="https://www.nowonline.com.br/img/channels/zoo_moo.png" group-title="Infantis" aspect-ratio="16:9",ZooMoo SD
 http://psrv.io:80/live/883698111244/blendediptv.me/28199.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ SD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band RJ SD
-http://psrv.io:80/live/883698111244/blendediptv.me/52350.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band SP SD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band SP SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18728.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ SD
@@ -275,8 +271,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/47359.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18652.m3u8
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="Record News SD" tvg-logo="http://static.psrv.io/logos/canais/recordnews.png" group-title="Noticias" aspect-ratio="16:9",Record News SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18578.m3u8
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RecordTV News SD" tvg-logo="http://static.psrv.io/logos/canais/recordnews.png" group-title="Noticias" aspect-ratio="16:9",RecordTV News SD
-http://psrv.io:80/live/883698111244/blendediptv.me/22216.m3u8
 #EXTINF:-1 tvg-id="TV CANCAO NOVA" tvg-name="Cancao Nova SD" tvg-logo="http://static.psrv.io/logos/canais/cancaonova.png" group-title="Religiosos" aspect-ratio="16:9",Cancao Nova SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18713.m3u8
 #EXTINF:-1 tvg-id="REDE VIDA" tvg-name="Rede Vida SD" tvg-logo="http://static.psrv.io/logos/canais/redevida.png" group-title="Religiosos" aspect-ratio="16:9",Rede Vida SD

@@ -71,8 +71,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18785.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18844.m3u8
 #EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV FHD" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/96x86_ICON_CHN_dog_DogTv.png" group-title="Variedades" aspect-ratio="16:9",Dog TV FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/28001.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="E! FHD" tvg-logo="http://static.psrv.io/logos/canais/e!.png" group-title="Variedades" aspect-ratio="16:9",E! FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/49292.m3u8
 #EXTINF:-1 tvg-id="FASHION TV" tvg-name="Fashion TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Variedades" aspect-ratio="16:9",Fashion TV FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/25236.m3u8
 #EXTINF:-1 tvg-id="FILM E ARTS" tvg-name="Film & Arts FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="Variedades" aspect-ratio="16:9",Film & Arts FHD
@@ -107,8 +105,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18804.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/26828.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC FHD" tvg-logo="http://static.psrv.io/logos/canais/tlc.png" group-title="Variedades" aspect-ratio="16:9",TLC FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18797.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 FHD" tvg-logo="http://static.psrv.io/logos/canais/vh1.png" group-title="Variedades" aspect-ratio="16:9",VH1 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18791.m3u8
 #EXTINF:-1 tvg-id="VIVA" tvg-name="Viva FHD" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18755.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="Animal Planet FHD" tvg-logo="http://static.psrv.io/logos/canais/animalplanet.png" group-title="Documentarios" aspect-ratio="16:9",Animal Planet FHD
@@ -157,8 +153,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18775.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18793.m3u8
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV Ra-Tim-Bum FHD" tvg-logo="http://static.psrv.io/logos/canais/ratimbum.png" group-title="Infantis" aspect-ratio="16:9",TV Ra-Tim-Bum FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/25256.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band RJ FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/52352.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band SP FHD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band SP FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18786.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ FHD

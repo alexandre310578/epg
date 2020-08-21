@@ -105,8 +105,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18645.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18699.m3u8
 #EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID: Investigacao Discovery HD" tvg-logo="http://static.psrv.io/logos/canais/id.png" group-title="Variedades" aspect-ratio="16:9",ID: Investigacao Discovery HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KPOP Stars HD" tvg-logo="https://img.pngio.com/kpop-png-tumblr-kpop-png-250_250.png" group-title="Variedades" aspect-ratio="16:9",KPOP Stars HD
-http://psrv.io:80/live/883698111244/blendediptv.me/50771.m3u8
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="Life Time HD" tvg-logo="http://static.psrv.io/logos/canais/lifetime.png" group-title="Variedades" aspect-ratio="16:9",Life Time HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18627.m3u8
 #EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="Mais GloboSat HD" tvg-logo="http://static.psrv.io/logos/canais/maisglobosat.png" group-title="Variedades" aspect-ratio="16:9",Mais GloboSat HD
@@ -175,12 +173,8 @@ http://psrv.io:80/live/883698111244/blendediptv.me/22325.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/49379.m3u8
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="Gloob HD" tvg-logo="http://static.psrv.io/logos/canais/gloob.png" group-title="Infantis" aspect-ratio="16:9",Gloob HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18649.m3u8
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Infantis" aspect-ratio="16:9",Gloobinho HD
-http://psrv.io:80/live/883698111244/blendediptv.me/50815.m3u8
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV Ra-Tim-Bum HD" tvg-logo="http://static.psrv.io/logos/canais/ratimbum.png" group-title="Infantis" aspect-ratio="16:9",TV Ra-Tim-Bum HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18524.m3u8
-#EXTINF:-1 tvg-id="BAND" tvg-name="Band RJ HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band RJ HD
-http://psrv.io:80/live/883698111244/blendediptv.me/52351.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band SP HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18727.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ HD
@@ -205,8 +199,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18569.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/49620.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT RJ HD
 http://psrv.io:80/live/883698111244/blendediptv.me/22458.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://static.psrv.io/logos/canais/sbt.png" group-title="Abertos" aspect-ratio="16:9",SBT RJ HD
-http://psrv.io:80/live/883698111244/blendediptv.me/49618.m3u8
 #EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV Cultura HD" tvg-logo="http://static.psrv.io/logos/canais/tvcultura.png" group-title="Abertos" aspect-ratio="16:9",TV Cultura HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18505.m3u8
 #EXTINF:-1 tvg-id="TV GAZETA" tvg-name="TV Gazeta SP HD" tvg-logo="http://static.psrv.io/logos/canais/tvgazeta.png" group-title="Abertos" aspect-ratio="16:9",TV Gazeta SP HD
