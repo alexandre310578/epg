@@ -177,13 +177,13 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18649.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18524.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band SP HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18727.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18416.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18410.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Brasilia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo Brasilia HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Brasilia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo Brasilia HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18434.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18370.m3u8
 #EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! HD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos" aspect-ratio="16:9",RedeTV! HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18572.m3u8

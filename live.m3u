@@ -793,189 +793,189 @@ http://psrv.io:80/live/883698111244/blendediptv.me/22476.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/52429.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND Nordeste SD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos - Band" aspect-ratio="16:9",BAND Nordeste SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52430.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18415.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ FHD [H265]
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RJ FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ FHD [H265]
 http://psrv.io:80/live/883698111244/blendediptv.me/25232.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18416.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RJ SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RJ SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18417.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP [4K]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP [4K]
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP [4K]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/26181.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/28068.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18410.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo SP SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18411.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Brasilia FHD[H265]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Brasilia FHD[H265]
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Brasilia FHD[H265]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Brasilia FHD[H265]
 http://psrv.io:80/live/883698111244/blendediptv.me/28390.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Brasilia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Brasilia HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Brasilia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Brasilia HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18434.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Brasilia SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Brasilia SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Brasilia SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Brasilia SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18435.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Asa Branca HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Asa Branca HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Asa Branca HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Asa Branca HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49362.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Centro America Cuiaba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Centro America Cuiaba SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Centro America Cuiaba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Centro America Cuiaba SD
 http://psrv.io:80/live/883698111244/blendediptv.me/49363.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Araraquara SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Araraquara SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18433.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Campinas FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Campinas FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/33738.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Campinas HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Campinas HD
 http://psrv.io:80/live/883698111244/blendediptv.me/28078.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Campinas SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Campinas SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18431.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Ribeirao Preto HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Ribeirao Preto HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Ribeirao Preto HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18430.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Ribeirao Preto SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Ribeirao Preto SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18429.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Ribeirao Preto" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Ribeirao Preto
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Ribeirao Preto" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Ribeirao Preto
 http://psrv.io:80/live/883698111244/blendediptv.me/18522.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Sao Carlos SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Sao Carlos SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Sao Carlos SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Sao Carlos SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18428.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Inter TV Cabugi RN SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Inter TV Cabugi RN SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Inter TV Cabugi RN SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Inter TV Cabugi RN SD
 http://psrv.io:80/live/883698111244/blendediptv.me/49364.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Inter TV Cabugi SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Inter TV Cabugi SD
 http://psrv.io:80/live/883698111244/blendediptv.me/33380.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Internacional SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Internacional SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Internacional SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Internacional SD
 http://psrv.io:80/live/883698111244/blendediptv.me/49365.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Mato Grosso FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Mato Grosso FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Mato Grosso FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Mato Grosso FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/28394.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Mato Grosso HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Mato Grosso HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Mato Grosso HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Mato Grosso HD
 http://psrv.io:80/live/883698111244/blendediptv.me/28393.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Minas FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Minas FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Minas FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Minas FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18377.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Minas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Minas HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Minas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Minas HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18425.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Minas SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Minas SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Minas SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Minas SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18426.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Nordeste FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Nordeste FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Nordeste FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Nordeste FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18376.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Nordeste SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Nordeste SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Nordeste SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Nordeste SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18424.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18375.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18421.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49361.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RBS TV Porto Alegre HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RBS TV Porto Alegre HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RBS TV Porto Alegre HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18419.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RBS TV Porto Alegre SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RBS TV Porto Alegre SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RBS TV Porto Alegre SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18420.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Rede Amazonas Manaus SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Rede Amazonas Manaus SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Rede Amazonas Manaus SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Rede Amazonas Manaus SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18418.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Curitiba HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Curitiba HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18413.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Curitiba SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Curitiba SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18412.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Curitiba SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Curitiba SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18414.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Parana HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Parana HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RPC Parana HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Parana HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49372.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Sao Jose dos Campos SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Sao Jose dos Campos SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Sao Jose dos Campos SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Sao Jose dos Campos SD
 http://psrv.io:80/live/883698111244/blendediptv.me/22448.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Anhanguera Goiania SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Anhanguera Goiania SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Anhanguera Goiania SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Anhanguera Goiania SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18407.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Salvador Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Salvador Bahia HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Salvador Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Salvador Bahia HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18405.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Bahia FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Bahia FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Bahia FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/54603.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Bahia SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Bahia SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Bahia SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18406.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV C. America Cuiaba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV C. America Cuiaba SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV C. America Cuiaba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV C. America Cuiaba SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18404.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Cabo Frio HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Cabo Frio HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Cabo Frio HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Cabo Frio HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18332.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Diario Fortaleza FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Diario Fortaleza FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Diario Fortaleza FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Diario Fortaleza FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18740.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Diario Fortaleza HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Diario Fortaleza HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Diario Fortaleza HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Diario Fortaleza HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18490.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Gazeta Sul ES FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Gazeta Sul ES FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18361.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Gazeta Sul ES HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Gazeta Sul ES HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18360.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Liberal Belem SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Liberal Belem SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18403.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Mirante Sao Luis FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Mirante Sao Luis FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18371.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18370.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Morena Ponta Pora HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Morena Ponta Pora HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Morena Ponta Pora HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Morena Ponta Pora HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49373.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Rio Sul HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Rio Sul HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18330.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Santa Cruz HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Santa Cruz HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18327.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Sergipe HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Sergipe HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Sergipe HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18380.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV TEM Bauru SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM Bauru SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV TEM Bauru SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM Bauru SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18402.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV TEM S. J. do Rio Preto HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM S. J. do Rio Preto HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV TEM S. J. do Rio Preto HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM S. J. do Rio Preto HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18400.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV TEM S. J. do Rio Preto SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM S. J. do Rio Preto SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV TEM S. J. do Rio Preto SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM S. J. do Rio Preto SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18399.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV TEM S. J. Rio Preto FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM S. J. Rio Preto FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV TEM S. J. Rio Preto FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM S. J. Rio Preto FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18365.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM Sorocaba SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV TEM Sorocaba SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18401.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Tribuna Santas SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Tribuna Santas SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Tribuna Santas SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Tribuna Santas SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18398.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Vanguarda S. J. dos Campos SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Vanguarda S. J. dos Campos SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Vanguarda S. J. dos Campos SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Vanguarda S. J. dos Campos SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18397.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Verdes Mares Fortaleza HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Verdes Mares Fortaleza HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Verdes Mares Fortaleza HD
 http://psrv.io:80/live/883698111244/blendediptv.me/28395.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Verdes Mares Fortaleza SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Verdes Mares Fortaleza SD
 http://psrv.io:80/live/883698111244/blendediptv.me/18396.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Asa Branca SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Asa Branca SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Asa Branca SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Asa Branca SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52404.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo InterTV Serra Mar SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo InterTV Serra Mar SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo InterTV Serra Mar SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo InterTV Serra Mar SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52405.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC Blumenau SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC Blumenau SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo NSC Blumenau SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC Blumenau SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52406.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC TV Florianopolis SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52407.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo NSC Joinville SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC Joinville SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo NSC Joinville SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo NSC Joinville SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52408.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Maringa SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Maringa SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RPC Maringa SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Maringa SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52409.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RPC Paranavai SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Paranavai SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RPC Paranavai SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RPC Paranavai SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52410.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Sergipe SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Sergipe SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Sergipe SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Sergipe SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52411.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Cabo Branco SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Cabo Branco SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Cabo Branco SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Cabo Branco SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52412.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Integracao SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Integracao SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Integracao SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Integracao SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52413.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Itapetininga SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Itapetininga SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Itapetininga SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Itapetininga SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52414.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Mirante SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Mirante SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Mirante SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52415.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Morena SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Morena SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Morena SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Morena SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52416.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Tem Rio Preto SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Tem Rio Preto SD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Tem Rio Preto SD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Tem Rio Preto SD
 http://psrv.io:80/live/883698111244/blendediptv.me/52417.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo InterTV Alto Litoral HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo InterTV Alto Litoral HD
 http://psrv.io:80/live/883698111244/blendediptv.me/52418.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Nordeste HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Nordeste HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Nordeste HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo Nordeste HD
 http://psrv.io:80/live/883698111244/blendediptv.me/52419.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RBS TV Pelotas HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo RBS TV Pelotas HD
 http://psrv.io:80/live/883698111244/blendediptv.me/52420.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Bahia HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Bahia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Bahia HD
 http://psrv.io:80/live/883698111244/blendediptv.me/52421.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Cabo Branco HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Cabo Branco HD
 http://psrv.io:80/live/883698111244/blendediptv.me/52422.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Gazeta Vitoria HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo TV Gazeta Vitoria HD
 http://psrv.io:80/live/883698111244/blendediptv.me/52423.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Sul de Minas FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Sul de Minas FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/52431.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Sul de Minas HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",Globo EPTV Sul de Minas HD
 http://psrv.io:80/live/883698111244/blendediptv.me/52432.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV Anhaguera FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",TV Anhaguera FHD [H265]
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV Anhaguera FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",TV Anhaguera FHD [H265]
 http://psrv.io:80/live/883698111244/blendediptv.me/22124.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV Anhaguera HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",TV Anhaguera HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV Anhaguera HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos - Globo" aspect-ratio="16:9",TV Anhaguera HD
 http://psrv.io:80/live/883698111244/blendediptv.me/28062.m3u8
 #EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! [4K]" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos - RedeTV" aspect-ratio="16:9",RedeTV! [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/26183.m3u8

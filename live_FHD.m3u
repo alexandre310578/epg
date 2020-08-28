@@ -155,11 +155,11 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18793.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/25256.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band SP FHD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band SP FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18786.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RJ FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18415.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/28068.m3u8
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo TV Mirante Sao Luis FHD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo TV Mirante Sao Luis FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18371.m3u8
 #EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! FHD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos" aspect-ratio="16:9",RedeTV! FHD
 http://psrv.io:80/live/883698111244/blendediptv.me/18751.m3u8
