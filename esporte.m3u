@@ -1,168 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports FHD" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18852.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22151.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports HD" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18723.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BandSports SD" tvg-logo="http://static.psrv.io/logos/canais/bandsports.png" group-title="Esportes" aspect-ratio="16:9",BandSports SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18724.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate [4K]" tvg-logo="http://static.psrv.io/logos/canais/combate.png" group-title="Esportes" aspect-ratio="16:9",Combate [4K]
-http://psrv.io:80/live/883698111244/blendediptv.me/26180.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate FHD" tvg-logo="http://static.psrv.io/logos/canais/combate.png" group-title="Esportes" aspect-ratio="16:9",Combate FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18784.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/combate.png" group-title="Esportes" aspect-ratio="16:9",Combate FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/25312.m3u8
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://static.psrv.io/logos/canais/combate.png" group-title="Esportes" aspect-ratio="16:9",Combate HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18707.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate SD" tvg-logo="http://static.psrv.io/logos/canais/combate.png" group-title="Esportes" aspect-ratio="16:9",Combate SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18708.m3u8
 #EXTINF:-1 tvg-id="ESPORTE INTERATIVO" tvg-name="EI Plus 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-0.png" group-title="Esportes" aspect-ratio="16:9",EI Plus 1 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/22978.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN [4K]" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN [4K]
-http://psrv.io:80/live/883698111244/blendediptv.me/27130.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18780.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/25237.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18673.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18680.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="http://static.psrv.io/logos/canais/espn2.png" group-title="Esportes" aspect-ratio="16:9",ESPN 2 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18837.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/espn2.png" group-title="Esportes" aspect-ratio="16:9",ESPN 2 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/25309.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://static.psrv.io/logos/canais/espn2.png" group-title="Esportes" aspect-ratio="16:9",ESPN 2 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18678.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD" tvg-logo="http://static.psrv.io/logos/canais/espn2.png" group-title="Esportes" aspect-ratio="16:9",ESPN 2 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18679.m3u8
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil FHD" tvg-logo="http://static.psrv.io/logos/canais/espnbrasil.png" group-title="Esportes" aspect-ratio="16:9",ESPN Brasil FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18781.m3u8
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/espnbrasil.png" group-title="Esportes" aspect-ratio="16:9",ESPN Brasil FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/25238.m3u8
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD" tvg-logo="http://static.psrv.io/logos/canais/espnbrasil.png" group-title="Esportes" aspect-ratio="16:9",ESPN Brasil HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18676.m3u8
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil SD" tvg-logo="http://static.psrv.io/logos/canais/espnbrasil.png" group-title="Esportes" aspect-ratio="16:9",ESPN Brasil SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18677.m3u8
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra FHD" tvg-logo="http://static.psrv.io/logos/canais/espnextra.png" group-title="Esportes" aspect-ratio="16:9",ESPN Extra FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18836.m3u8
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/espnextra.png" group-title="Esportes" aspect-ratio="16:9",ESPN Extra FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/25308.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra HD" tvg-logo="http://static.psrv.io/logos/canais/espnextra.png" group-title="Esportes" aspect-ratio="16:9",ESPN Extra HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18674.m3u8
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra SD" tvg-logo="http://static.psrv.io/logos/canais/espnextra.png" group-title="Esportes" aspect-ratio="16:9",ESPN Extra SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18675.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports [4K]" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports [4K]
-http://psrv.io:80/live/883698111244/blendediptv.me/26187.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports FHD" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18777.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/28074.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22195.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports HD" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18659.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports SD" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18660.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 [4K]" tvg-logo="http://static.psrv.io/logos/canais/foxsports2.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports 2 [4K]
-http://psrv.io:80/live/883698111244/blendediptv.me/26406.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 FHD" tvg-logo="http://static.psrv.io/logos/canais/foxsports2.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports 2 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18778.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/foxsports2.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports 2 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22196.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://static.psrv.io/logos/canais/foxsports2.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports 2 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18657.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 SD" tvg-logo="http://static.psrv.io/logos/canais/foxsports2.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports 2 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18658.m3u8
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV [4K]" tvg-logo="http://static.psrv.io/logos/canais/sportv.png" group-title="Esportes" aspect-ratio="16:9",SporTV [4K]
-http://psrv.io:80/live/883698111244/blendediptv.me/26190.m3u8
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV 4K" tvg-logo="http://static.psrv.io/logos/canais/sportv.png" group-title="Esportes" aspect-ratio="16:9",SporTV 4K
-http://psrv.io:80/live/883698111244/blendediptv.me/18439.m3u8
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV FHD" tvg-logo="http://static.psrv.io/logos/canais/sportv.png" group-title="Esportes" aspect-ratio="16:9",SporTV FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18761.m3u8
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/sportv.png" group-title="Esportes" aspect-ratio="16:9",SporTV FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22166.m3u8
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV HD" tvg-logo="http://static.psrv.io/logos/canais/sportv.png" group-title="Esportes" aspect-ratio="16:9",SporTV HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18558.m3u8
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV SD" tvg-logo="http://static.psrv.io/logos/canais/sportv.png" group-title="Esportes" aspect-ratio="16:9",SporTV SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18563.m3u8
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 FHD" tvg-logo="http://static.psrv.io/logos/canais/sportv2.png" group-title="Esportes" aspect-ratio="16:9",SporTV 2 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18763.m3u8
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/sportv2.png" group-title="Esportes" aspect-ratio="16:9",SporTV 2 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22168.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://static.psrv.io/logos/canais/sportv2.png" group-title="Esportes" aspect-ratio="16:9",SporTV 2 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18561.m3u8
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 SD" tvg-logo="http://static.psrv.io/logos/canais/sportv2.png" group-title="Esportes" aspect-ratio="16:9",SporTV 2 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18562.m3u8
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 FHD" tvg-logo="http://static.psrv.io/logos/canais/sportv3.png" group-title="Esportes" aspect-ratio="16:9",SporTV 3 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18762.m3u8
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/sportv3.png" group-title="Esportes" aspect-ratio="16:9",SporTV 3 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22167.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://static.psrv.io/logos/canais/sportv3.png" group-title="Esportes" aspect-ratio="16:9",SporTV 3 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18559.m3u8
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 SD" tvg-logo="http://static.psrv.io/logos/canais/sportv3.png" group-title="Esportes" aspect-ratio="16:9",SporTV 3 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18560.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes [4K]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes [4K]
-http://psrv.io:80/live/883698111244/blendediptv.me/26184.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes 4K" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes 4K
-http://psrv.io:80/live/883698111244/blendediptv.me/18438.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes FHD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18766.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="" group-title="Esportes" aspect-ratio="16:9",FLA TV
+http://psrv.io:80/live/883698111244/blendediptv.me/49255.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18582.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18583.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 FHD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 2 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18772.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 2 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22176.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 2 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18594.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 2 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18595.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="Premiere 3 FHD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 3 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18771.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="Premiere 3 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 3 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22175.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="Premiere 3 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 3 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18592.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-name="Premiere 3 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 3 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18593.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4 FHD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 4 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18770.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 4 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22174.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 4 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18590.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="Premiere 4 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 4 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18591.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5 FHD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 5 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18769.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 5 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22173.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 5 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18588.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="Premiere 5 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 5 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18589.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6 FHD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 6 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18768.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 6 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22172.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 6 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18586.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-name="Premiere 6 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 6 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18587.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7 FHD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 7 FHD
-http://psrv.io:80/live/883698111244/blendediptv.me/18767.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7 FHD [H265]" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 7 FHD [H265]
-http://psrv.io:80/live/883698111244/blendediptv.me/22171.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 7 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18584.m3u8
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-name="Premiere 7 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 7 SD
-http://psrv.io:80/live/883698111244/blendediptv.me/18585.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 8" tvg-name="Premiere 8 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 8 SD
 http://psrv.io:80/live/883698111244/blendediptv.me/28064.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 9" tvg-name="Premiere 9 SD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 9 SD
