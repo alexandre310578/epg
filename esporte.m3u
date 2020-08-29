@@ -23,8 +23,6 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18558.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18561.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://static.psrv.io/logos/canais/sportv3.png" group-title="Esportes" aspect-ratio="16:9",SporTV 3 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FLA TV" tvg-logo="" group-title="Esportes" aspect-ratio="16:9",FLA TV
-http://psrv.io:80/live/883698111244/blendediptv.me/49255.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere Clubes HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere Clubes HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18582.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-name="Premiere 2 HD" tvg-logo="http://static.psrv.io/logos/canais/premiere.png" group-title="Esportes" aspect-ratio="16:9",Premiere 2 HD
