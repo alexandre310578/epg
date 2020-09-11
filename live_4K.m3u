@@ -7,7 +7,7 @@ http://psrv.io:80/live/883698111244/blendediptv.me/26407.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/27131.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT [4K]" tvg-logo="http://static.psrv.io/logos/canais/tnt.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/26186.m3u8
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT Series [4K]" tvg-logo="http://static.psrv.io/logos/canais/tntseries.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT Series [4K]
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Series [4K]" tvg-logo="http://static.psrv.io/logos/canais/tntseries.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT Series [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/26696.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO [4K]" tvg-logo="http://static.psrv.io/logos/canais/hbo.png" group-title="Filmes e Series" aspect-ratio="16:9",HBO [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/43815.m3u8
@@ -29,7 +29,7 @@ http://psrv.io:80/live/883698111244/blendediptv.me/26695.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/26408.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band [4K]" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/26179.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP [4K]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP [4K]
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP [4K]" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/26181.m3u8
 #EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! [4K]" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos" aspect-ratio="16:9",RedeTV! [4K]
 http://psrv.io:80/live/883698111244/blendediptv.me/26183.m3u8

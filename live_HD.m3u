@@ -9,9 +9,9 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18716.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18709.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="Fox Channel HD" tvg-logo="http://static.psrv.io/logos/canais/fox.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Channel HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18667.m3u8
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="Fox Premium 1 HD" tvg-logo="http://static.psrv.io/logos/canais/foxpremium1.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Premium 1 HD
+#EXTINF:-1 tvg-id="FOX PREMIUM 1 HD" tvg-name="Fox Premium 1 HD" tvg-logo="http://static.psrv.io/logos/canais/foxpremium1.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Premium 1 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18663.m3u8
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="Fox Premium 2 HD" tvg-logo="http://static.psrv.io/logos/canais/foxpremium2.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Premium 2 HD
+#EXTINF:-1 tvg-id="FOX PREMIUM 2 HD" tvg-name="Fox Premium 2 HD" tvg-logo="http://static.psrv.io/logos/canais/foxpremium2.png" group-title="Filmes e Series" aspect-ratio="16:9",Fox Premium 2 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18661.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://static.psrv.io/logos/canais/fx.png" group-title="Filmes e Series" aspect-ratio="16:9",FX HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18653.m3u8
@@ -33,7 +33,7 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18566.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18554.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://static.psrv.io/logos/canais/tnt.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18536.m3u8
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT Series HD" tvg-logo="http://static.psrv.io/logos/canais/tntseries.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT Series HD
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Series HD" tvg-logo="http://static.psrv.io/logos/canais/tntseries.png" group-title="Filmes e Series" aspect-ratio="16:9",TNT Series HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18534.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="Universal Channel HD" tvg-logo="http://static.psrv.io/logos/canais/universalchannel.png" group-title="Filmes e Series" aspect-ratio="16:9",Universal Channel HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18520.m3u8
@@ -77,6 +77,8 @@ http://psrv.io:80/live/883698111244/blendediptv.me/52433.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/52434.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes e Series" aspect-ratio="16:9",Cine Sky 5
 http://psrv.io:80/live/883698111244/blendediptv.me/52435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda" tvg-logo="https://4.bp.blogspot.com/_wTRzJPCDomE/TMiSKfKotgI/AAAAAAAAJi0/u4o6hLvGoTQ/s1600/AFazenda3_logo.png" group-title="Variedades" aspect-ratio="16:9",A Fazenda
+http://psrv.io:80/live/883698111244/blendediptv.me/54606.m3u8
 #EXTINF:-1 tvg-id="AEE" tvg-name="A&E HD" tvg-logo="http://static.psrv.io/logos/canais/a&e.png" group-title="Variedades" aspect-ratio="16:9",A&E HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18738.m3u8
 #EXTINF:-1 tvg-id="BIS" tvg-name="Bis HD" tvg-logo="http://static.psrv.io/logos/canais/bis.png" group-title="Variedades" aspect-ratio="16:9",Bis HD
@@ -87,11 +89,11 @@ http://psrv.io:80/live/883698111244/blendediptv.me/49378.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18705.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HOME E HEALTH" tvg-name="Discovery H&H HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryh&h.png" group-title="Variedades" aspect-ratio="16:9",Discovery H&H HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18697.m3u8
-#EXTINF:-1 tvg-id="DOGTV" tvg-name="Dog TV HD" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/96x86_ICON_CHN_dog_DogTv.png" group-title="Variedades" aspect-ratio="16:9",Dog TV HD
+#EXTINF:-1 tvg-id="DOGTV HD" tvg-name="Dog TV HD" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/96x86_ICON_CHN_dog_DogTv.png" group-title="Variedades" aspect-ratio="16:9",Dog TV HD
 http://psrv.io:80/live/883698111244/blendediptv.me/28000.m3u8
 #EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://static.psrv.io/logos/canais/e!.png" group-title="Variedades" aspect-ratio="16:9",E! HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18681.m3u8
-#EXTINF:-1 tvg-id="FASHION TV" tvg-name="Fashion TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Variedades" aspect-ratio="16:9",Fashion TV HD
+#EXTINF:-1 tvg-id="FASHION TV HD" tvg-name="Fashion TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Variedades" aspect-ratio="16:9",Fashion TV HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49293.m3u8
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="Fish TV HD" tvg-logo="http://static.psrv.io/logos/canais/fishtv.png" group-title="Variedades" aspect-ratio="16:9",Fish TV HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18671.m3u8
@@ -111,7 +113,7 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18627.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18625.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://static.psrv.io/logos/canais/mtv.png" group-title="Variedades" aspect-ratio="16:9",MTV HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18615.m3u8
-#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live HD" tvg-logo="http://static.psrv.io/logos/canais/mtvlive.png" group-title="Variedades" aspect-ratio="16:9",MTV Live HD
+#EXTINF:-1 tvg-id="MTV LIVE HD" tvg-name="MTV Live HD" tvg-logo="http://static.psrv.io/logos/canais/mtvlive.png" group-title="Variedades" aspect-ratio="16:9",MTV Live HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18507.m3u8
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="Multishow HD" tvg-logo="http://static.psrv.io/logos/canais/multishow.png" group-title="Variedades" aspect-ratio="16:9",Multishow HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18613.m3u8
@@ -123,7 +125,7 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18598.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/28404.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://static.psrv.io/logos/canais/tlc.png" group-title="Variedades" aspect-ratio="16:9",TLC HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18538.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 HD" tvg-logo="http://static.psrv.io/logos/canais/vh1.png" group-title="Variedades" aspect-ratio="16:9",VH1 HD
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="http://static.psrv.io/logos/canais/vh1.png" group-title="Variedades" aspect-ratio="16:9",VH1 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18518.m3u8
 #EXTINF:-1 tvg-id="VIVA" tvg-name="Viva HD" tvg-logo="http://static.psrv.io/logos/canais/viva.png" group-title="Variedades" aspect-ratio="16:9",Viva HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18515.m3u8
@@ -137,15 +139,15 @@ http://psrv.io:80/live/883698111244/blendediptv.me/27884.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18701.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="Discovery Science HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryscience.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Science HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18693.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="Discovery Theater HD" tvg-logo="http://static.psrv.io/logos/canais/discoverytheater.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Theater HD
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD" tvg-name="Discovery Theater HD" tvg-logo="http://static.psrv.io/logos/canais/discoverytheater.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Theater HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18691.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="Discovery Turbo HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryturbo.png" group-title="Documentarios" aspect-ratio="16:9",Discovery Turbo HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18689.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="Discovery World HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryworld.png" group-title="Documentarios" aspect-ratio="16:9",Discovery World HD
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-name="Discovery World HD" tvg-logo="http://static.psrv.io/logos/canais/discoveryworld.png" group-title="Documentarios" aspect-ratio="16:9",Discovery World HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18687.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="History Channel HD" tvg-logo="http://static.psrv.io/logos/canais/history.png" group-title="Documentarios" aspect-ratio="16:9",History Channel HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18631.m3u8
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://static.psrv.io/logos/canais/h2.png" group-title="Documentarios" aspect-ratio="16:9",H2 HD
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="http://static.psrv.io/logos/canais/h2.png" group-title="Documentarios" aspect-ratio="16:9",H2 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18643.m3u8
 #EXTINF:-1 tvg-id="NATGEO WILD" tvg-name="NatGeo Wild HD" tvg-logo="http://static.psrv.io/logos/canais/natgeowild.png" group-title="Documentarios" aspect-ratio="16:9",NatGeo Wild HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18606.m3u8
@@ -161,7 +163,7 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18509.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18600.m3u8
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr HD" tvg-logo="http://static.psrv.io/logos/canais/nickjr.png" group-title="Infantis" aspect-ratio="16:9",Nick Jr HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18602.m3u8
-#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-name="NatGeo Kids HD" tvg-logo="http://static.psrv.io/logos/canais/natgeokids.png" group-title="Infantis" aspect-ratio="16:9",NatGeo Kids HD
+#EXTINF:-1 tvg-id="NATGEO KIDS HD" tvg-name="NatGeo Kids HD" tvg-logo="http://static.psrv.io/logos/canais/natgeokids.png" group-title="Infantis" aspect-ratio="16:9",NatGeo Kids HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18607.m3u8
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast HD" tvg-logo="http://static.psrv.io/logos/canais/tooncast.png" group-title="Infantis" aspect-ratio="16:9",Tooncast HD
 http://psrv.io:80/live/883698111244/blendediptv.me/49376.m3u8
@@ -177,13 +179,13 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18649.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/18524.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="Band SP HD" tvg-logo="http://static.psrv.io/logos/canais/band.png" group-title="Abertos" aspect-ratio="16:9",Band SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18727.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo RJ HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo RJ HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18416.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo SP HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo SP HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo SP HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18410.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo Brasilia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo Brasilia HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo Brasilia HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo Brasilia HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18434.m3u8
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://static.psrv.io/logos/canais/globo.png" group-title="Abertos" aspect-ratio="16:9",Globo TV Mirante Sao Luis HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18370.m3u8
 #EXTINF:-1 tvg-id="REDETV!" tvg-name="RedeTV! HD" tvg-logo="http://static.psrv.io/logos/canais/redetv.png" group-title="Abertos" aspect-ratio="16:9",RedeTV! HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18572.m3u8
@@ -213,11 +215,11 @@ http://psrv.io:80/live/883698111244/blendediptv.me/18707.m3u8
 http://psrv.io:80/live/883698111244/blendediptv.me/22978.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://static.psrv.io/logos/canais/espn.png" group-title="Esportes" aspect-ratio="16:9",ESPN HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18673.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://static.psrv.io/logos/canais/espn2.png" group-title="Esportes" aspect-ratio="16:9",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="http://static.psrv.io/logos/canais/espn2.png" group-title="Esportes" aspect-ratio="16:9",ESPN 2 HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18678.m3u8
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD" tvg-logo="http://static.psrv.io/logos/canais/espnbrasil.png" group-title="Esportes" aspect-ratio="16:9",ESPN Brasil HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18676.m3u8
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN Extra HD" tvg-logo="http://static.psrv.io/logos/canais/espnextra.png" group-title="Esportes" aspect-ratio="16:9",ESPN Extra HD
+#EXTINF:-1 tvg-id="ESPN EXTRA HD" tvg-name="ESPN Extra HD" tvg-logo="http://static.psrv.io/logos/canais/espnextra.png" group-title="Esportes" aspect-ratio="16:9",ESPN Extra HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18674.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports HD" tvg-logo="http://static.psrv.io/logos/canais/foxsports1.png" group-title="Esportes" aspect-ratio="16:9",Fox Sports HD
 http://psrv.io:80/live/883698111244/blendediptv.me/18659.m3u8
