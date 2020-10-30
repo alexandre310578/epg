@@ -383,7 +383,7 @@ http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/5088
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/28398
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV FULL HD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Variedades e Musicas" aspect-ratio="16:9",MTV FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/58702
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Variedades e Musicas" aspect-ratio="16:9",MTV HD
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Canais Abertos" aspect-ratio="16:9",MTV HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68303
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Variedades e Musicas" aspect-ratio="16:9",MTV SD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/5092
@@ -415,7 +415,7 @@ http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68307
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52679
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRASIL FULL HD" tvg-logo="http://img.starbr.in/1559765083_0790a4ed0824a05cad12d5df66294c1b95602568.png" group-title="Variedades e Musicas" aspect-ratio="16:9",PRIME BOX BRASIL FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68308
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://img.starbr.in/1559765083_0790a4ed0824a05cad12d5df66294c1b95602568.png" group-title="Variedades e Musicas" aspect-ratio="16:9",PRIME BOX BRASIL HD
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://img.starbr.in/1559765083_0790a4ed0824a05cad12d5df66294c1b95602568.png" group-title="Canais Abertos" aspect-ratio="16:9",PRIME BOX BRASIL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68309
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRASIL SD" tvg-logo="http://img.starbr.in/1559765083_0790a4ed0824a05cad12d5df66294c1b95602568.png" group-title="Variedades e Musicas" aspect-ratio="16:9",PRIME BOX BRASIL SD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/969
