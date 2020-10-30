@@ -31,7 +31,7 @@ http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68339.m3u8
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52628.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME FULL HD" tvg-logo="http://img.myapp.st/1581122147_cd5410647c5e9678438ecb484b21f4177fa6e6d1.jpg" group-title="Filmes e Series" aspect-ratio="16:9",HBO XTREME FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/58700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FULL HD" tvg-logo="http://img.myapp.st/1593647147_836e892f83ef199f11777f1b977d2c7567824bca.png" group-title="Filmes e Series" aspect-ratio="16:9",HGTV FULL HD
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV FULL HD" tvg-logo="http://img.myapp.st/1593647147_836e892f83ef199f11777f1b977d2c7567824bca.png" group-title="Filmes e Series" aspect-ratio="16:9",HGTV FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68342.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I.SAT FULL HD" tvg-logo="http://img.myapp.st/1593647377_bae9cd80fa3b870d63041bbee284a1105aab5d0a.jpg" group-title="Filmes e Series" aspect-ratio="16:9",I.SAT FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68345.m3u8
@@ -85,6 +85,8 @@ http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52610.m3u8
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/58689.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD FULL HD" tvg-logo="http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png" group-title="Documentarios" aspect-ratio="16:9",DISCOVERY WORLD FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/58690.m3u8
+#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios" aspect-ratio="16:9",THE HISTORY CHANNEL FULL HD
+http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68315.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-name="H2 FULL HD" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios" aspect-ratio="16:9",H2 FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52629.m3u8
 #EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY FULL HD" tvg-logo="http://img.starbr.in/1559762432_ff9b16c225bc3ba42286933f4b1b5018c99e7b60.jpg" group-title="Documentarios" aspect-ratio="16:9",INVESTIGACAO DISCOVERY FULL HD
@@ -93,15 +95,13 @@ http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68301.m3u8
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52669.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-name="NATIONAL GEOGRAPHICS FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763330_5716929597eb7e2dbc4e4a4a97abe4cca421765b.jpg" group-title="Documentarios" aspect-ratio="16:9",NATIONAL GEOGRAPHICS FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68305.m3u8
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL FULL HD" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios" aspect-ratio="16:9",THE HISTORY CHANNEL FULL HD
-http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68315.m3u8
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas" aspect-ratio="16:9",A&E FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52645.m3u8
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 FULL HD" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas" aspect-ratio="16:9",ARTE 1 FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68283.m3u8
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS FULL HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas" aspect-ratio="16:9",BIS FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHEF TV FULL HD" tvg-logo="http://img.myapp.st/1593619252_79a0d83580ae9404a480564f6250fa22ce5d430d.png" group-title="Variedades e Musicas" aspect-ratio="16:9",CHEF TV FULL HD
+#EXTINF:-1 tvg-id="CHEF TV" tvg-name="CHEF TV FULL HD" tvg-logo="http://img.myapp.st/1593619252_79a0d83580ae9404a480564f6250fa22ce5d430d.png" group-title="Variedades e Musicas" aspect-ratio="16:9",CHEF TV FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68286.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL FULL HD" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Variedades e Musicas" aspect-ratio="16:9",COMEDY CENTRAL FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/58686.m3u8
@@ -151,7 +151,7 @@ http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52618.m3u8
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/58698.m3u8
 #EXTINF:-1 tvg-id="GLOBO SANTA CRUZ" tvg-name="GLOBO TV SANTA CRUZ FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1561323857_84115319b557e7233a652a3f8375f535871329e0.png" group-title="Canais Abertos" aspect-ratio="16:9",GLOBO TV SANTA CRUZ FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" group-title="Canais Abertos" aspect-ratio="16:9",GLOBO TV SERGIPE FULL HD
+#EXTINF:-1 tvg-id="GLOBO SERGIPE" tvg-name="GLOBO TV SERGIPE FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" group-title="Canais Abertos" aspect-ratio="16:9",GLOBO TV SERGIPE FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/68798.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos" aspect-ratio="16:9",REDE TV FULL HD
 http://list.deeplist.nl:80/live/pxnn8776/pkcv2561/52601.m3u8
